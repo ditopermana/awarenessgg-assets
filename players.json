@@ -1,33 +1,5 @@
 [
   {
-    "role": "Exp Laner",
-    "ign": "Ⱥ PRIA PAMULANG",
-    "realName": "Irfan Alamsyah",
-    "jersey": "01",
-    "photoFront": "images/irfan.webp",
-    "photoBack": "images/irfan2nd.webp",
-    "winRate": "53.78%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "V"
-    },
-    "highestRank": {
-      "tier": "immortal",
-      "star": "102"
-    },
-    "bio": "Dikenal karena kemampuan zoning dan membaca timing rotasi lawan.",
-    "heroes": [
-      "Uranus",
-      "Sora",
-      "Phoveus",
-      "Jawhead",
-      "Edith",
-      "Esmeralda"
-    ],
-    "instagram": "bymystfy",
-    "lastMatch": null
-  },
-  {
     "role": "Jungler",
     "ign": "Ⱥ PRIA BOJONGSARI",
     "realName": "Gilang Rifki",
@@ -61,6 +33,34 @@
       "result": "win",
       "matchId": "match-1"
     }
+  },
+  {
+    "role": "Exp Laner",
+    "ign": "Ⱥ PRIA PAMULANG",
+    "realName": "Irfan Alamsyah",
+    "jersey": "01",
+    "photoFront": "images/irfan.webp",
+    "photoBack": "images/irfan2nd.webp",
+    "winRate": "53.78%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "V"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "102"
+    },
+    "bio": "Dikenal karena kemampuan zoning dan membaca timing rotasi lawan.",
+    "heroes": [
+      "Uranus",
+      "Sora",
+      "Phoveus",
+      "Jawhead",
+      "Edith",
+      "Esmeralda"
+    ],
+    "instagram": "bymystfy",
+    "lastMatch": null
   },
   {
     "role": "Mid Laner",
