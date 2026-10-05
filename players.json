@@ -1,0 +1,310 @@
+[
+  {
+    "role": "Exp Laner",
+    "ign": "Ⱥ PRIA PAMULANG",
+    "realName": "Irfan Alamsyah",
+    "jersey": "01",
+    "photoFront": "images/irfan.webp",
+    "photoBack": "images/irfan2nd.webp",
+    "winRate": "53.78%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "V"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "102"
+    },
+    "bio": "Dikenal karena kemampuan zoning dan membaca timing rotasi lawan.",
+    "heroes": [
+      "Uranus",
+      "Sora",
+      "Phoveus",
+      "Jawhead",
+      "Edith",
+      "Esmeralda"
+    ],
+    "instagram": "bymystfy",
+    "lastMatch": null
+  },
+  {
+    "role": "Jungler",
+    "ign": "Ⱥ PRIA BOJONGSARI",
+    "realName": "Gilang Rifki",
+    "jersey": "02",
+    "photoFront": "images/gilang.webp",
+    "photoBack": "images/gilang2nd.webp",
+    "winRate": "59.12%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "IV"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "82"
+    },
+    "bio": "Playmaker utama tim, spesialis kontrol tempo dan perebutan Lord/Turtle.",
+    "heroes": [
+      "Fanny",
+      "Joy",
+      "Hirara",
+      "Suyou",
+      "Hayabusa",
+      "Lancelot"
+    ],
+    "instagram": "gilangrifki08_",
+    "lastMatch": {
+      "result": "win",
+      "matchId": "match-1",
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0"
+    }
+  },
+  {
+    "role": "Mid Laner",
+    "ign": "Ⱥ PRIA SAWANGAN LAMA",
+    "realName": "Ahmad Al Khaidar",
+    "jersey": "03",
+    "photoFront": "images/haidar.webp",
+    "photoBack": "images/haidar2nd.webp",
+    "winRate": "62.69%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "IV"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "109"
+    },
+    "bio": "Player cbz banget tapi kuat dalam matchup mage burst.",
+    "heroes": [
+      "Zhuxin",
+      "Kagura",
+      "Eudora",
+      "Vexana",
+      "Selena",
+      "Gord"
+    ],
+    "instagram": "ahmadalkhaidar2",
+    "lastMatch": null
+  },
+  {
+    "role": "Gold Laner",
+    "ign": "Ⱥ PRIA CINANGKA",
+    "realName": "Fajar Firdaus",
+    "jersey": "04",
+    "photoFront": "images/daus.webp",
+    "photoBack": "images/daus2nd.webp",
+    "winRate": "86.20%",
+    "currentRank": {
+      "tier": "epic",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "54"
+    },
+    "bio": "Damage dealer utama di late game, dikenal karena efisiensi farming.",
+    "heroes": [
+      "Wanwan",
+      "Brody",
+      "Claude",
+      "Beatrix",
+      "Natan",
+      "Granger"
+    ],
+    "instagram": "daussfajar28",
+    "lastMatch": null
+  },
+  {
+    "role": "Gold Laner",
+    "ign": "Ⱥ LUO FENG",
+    "realName": "Adam Faridz",
+    "jersey": "06",
+    "photoFront": "images/adamtatto.webp",
+    "photoBack": "images/adamtatto2nd.webp",
+    "winRate": "68.81%",
+    "currentRank": {
+      "tier": "epic",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "51"
+    },
+    "bio": "Player paling bapuk dan paling sering ngetroll di team.",
+    "heroes": [
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol"
+    ],
+    "instagram": "adamfaridzmm",
+    "lastMatch": {
+      "result": "win",
+      "matchId": "match-1",
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0"
+    }
+  },
+  {
+    "role": "Exp Laner",
+    "ign": "Ⱥ PRIA SETU SAWANGAN",
+    "realName": "Iqbal Rahayu",
+    "jersey": "07",
+    "photoFront": "images/iqbal.webp",
+    "photoBack": "images/iqbal2nd.webp",
+    "winRate": "59.51%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "III"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "75"
+    },
+    "bio": "Pemain duel satu lawan satu yang stabil dan selalu siap menjadi initiator sekunder tim.",
+    "heroes": [
+      "Paquito",
+      "Ruby",
+      "Barats",
+      "Aldous",
+      "Chou",
+      "Badang"
+    ],
+    "instagram": "iqbal.rhy",
+    "lastMatch": {
+      "result": "win",
+      "matchId": "match-1",
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0"
+    }
+  },
+  {
+    "role": "Jungler",
+    "ign": "Ⱥ PRIA PONDOK CABE",
+    "realName": "Nanda Nurochman",
+    "jersey": "08",
+    "photoFront": "images/nanda.png",
+    "photoBack": "images/nanda2nd.webp",
+    "winRate": "60.44%",
+    "currentRank": {
+      "tier": "glory",
+      "star": "56"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "114"
+    },
+    "bio": "Jungler agresif yang pandai memanfaatkan early game untuk ganking ke jalur lawan.",
+    "heroes": [
+      "Nolan",
+      "Ling",
+      "Hirara",
+      "Lancelot",
+      "Gusion",
+      "Hayabusa"
+    ],
+    "instagram": "hy.nandaaaaa",
+    "lastMatch": null
+  },
+  {
+    "role": "ASS COACH",
+    "ign": "Ⱥ PRIA RENI",
+    "realName": "Ridho Galon",
+    "jersey": "AC",
+    "photoFront": "images/ridho.webp",
+    "photoBack": "images/ridho2nd.webp",
+    "winRate": "99.99%",
+    "currentRank": {
+      "tier": "immortal",
+      "star": "1991"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "2003"
+    },
+    "bio": "Anak bawang.",
+    "heroes": [
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela"
+    ],
+    "instagram": "mhmmdrdhfaiz",
+    "lastMatch": null
+  },
+  {
+    "role": "HEAD COACH",
+    "ign": "Ⱥ SUNDONGYANG",
+    "realName": "Sianjas",
+    "jersey": "♂",
+    "photoFront": "images/sianjas22.png",
+    "photoBack": "images/sianjas66.png",
+    "winRate": "90.66%",
+    "currentRank": {
+      "tier": "immortal",
+      "star": "100"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "190"
+    },
+    "bio": "Spesialis drafting, strategi makro tim dan berfokus pada eksekusi game plan.",
+    "heroes": [
+      "Ling",
+      "Yss",
+      "Leomord",
+      "Nolan",
+      "Paquito",
+      "Lukas"
+    ],
+    "instagram": "ditoanjaspermana_",
+    "lastMatch": {
+      "result": "win",
+      "matchId": "match-1",
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0"
+    }
+  },
+  {
+    "role": "Mid Laner",
+    "ign": "Ⱥ Mengkudu•",
+    "realName": "Mymar",
+    "jersey": "♀",
+    "photoFront": "images/mar11.png",
+    "photoBack": "images/mar22.png",
+    "winRate": "53.29%",
+    "currentRank": {
+      "tier": "epic",
+      "star": "I"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "131"
+    },
+    "bio": "Penyedia damage area utama yang rajin melakukan roaming untuk membantu jalur side.",
+    "heroes": [
+      "Lylia",
+      "Vexana",
+      "Aurora",
+      "Nana",
+      "Pharsa",
+      "LuoYi"
+    ],
+    "instagram": "markh198",
+    "lastMatch": null
+  }
+]
