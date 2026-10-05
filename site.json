@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "image": "images/ffdauss.png",
+    "badge": "FAJAR FIRDAUS"
+  },
+  "about": {
+    "image": "images/sqawareness.jpg",
+    "quote": "Vision menang duluan, teamfight cuma formalitas."
+  },
+  "sponsors": [
+    {
+      "image": "images/sabana.png",
+      "alt": "Logo Sabana"
+    },
+    {
+      "image": "images/abchicken.png",
+      "alt": "Logo Sponsor 2"
+    }
+  ],
+  "topup": {
+    "image": "images/nomstore2.png"
+  }
+}

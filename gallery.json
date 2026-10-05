@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gallery-ngegrill-1",
+    "cat": "event",
+    "title": "Ngegrill part 1",
+    "type": "image",
+    "src": "images/bakar1.jpg",
+    "home": true
+  },
+  {
+    "id": "gallery-ngegrill-2",
+    "cat": "event",
+    "title": "Ngegrill part 2",
+    "type": "image",
+    "src": "images/bakar2.jpg",
+    "home": true
+  },
+  {
+    "id": "gallery-video-daus",
+    "cat": "match",
+    "title": "Cuplikan Match Daus",
+    "type": "video",
+    "src": "images/punyadaus1.mp4",
+    "home": false
+  }
+]

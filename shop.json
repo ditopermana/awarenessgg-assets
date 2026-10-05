@@ -1,0 +1,66 @@
+[
+  {
+    "id": "produk-cap-snapback",
+    "cat": "accessories",
+    "name": "Cap Snapback",
+    "detailName": "",
+    "orderName": "",
+    "desc": "Topi snapback adjustable dengan gambar player bordir 3D.",
+    "price": "Rp95.000",
+    "badge": "Best Seller",
+    "comingSoon": false,
+    "hidden": false,
+    "images": [
+      "images/cap1.webp",
+      "images/cap2.webp"
+    ]
+  },
+  {
+    "id": "produk-keychain-daus",
+    "cat": "accessories",
+    "name": "Keychain Acrylic",
+    "detailName": "Keychain Acrylic - Bang Daus",
+    "orderName": "Keychain Acrylic - B",
+    "desc": "Gantungan kunci akrilik bening dengan cutting bergambar Player.",
+    "price": "Rp18.000",
+    "badge": "",
+    "comingSoon": false,
+    "hidden": false,
+    "images": [
+      "images/dauskeychain.webp",
+      "images/dauskeychain2.webp"
+    ]
+  },
+  {
+    "id": "produk-hoodie-awareness",
+    "cat": "apparel",
+    "name": "Hoodie Awareness",
+    "detailName": "",
+    "orderName": "",
+    "desc": "Hoodie fleece tebal dengan logo bordir di dada dan tulisan besar di punggung.",
+    "price": "Rpxxx.xxx",
+    "badge": "",
+    "comingSoon": true,
+    "hidden": false,
+    "images": [
+      "images/shop/hoodie-1.jpg",
+      "images/shop/hoodie-2.jpg"
+    ]
+  },
+  {
+    "id": "produk-keychain-gusti",
+    "cat": "accessories",
+    "name": "Keychain Acrylic - Mas Gusti",
+    "detailName": "",
+    "orderName": "Keychain Acrylic - Gusti",
+    "desc": "Gantungan kunci akrilik bening dengan cutting bergambar Player.",
+    "price": "Rp18.000",
+    "badge": "",
+    "comingSoon": false,
+    "hidden": true,
+    "images": [
+      "images/gustikeychain.webp",
+      "images/gustikeychain2.webp"
+    ]
+  }
+]
