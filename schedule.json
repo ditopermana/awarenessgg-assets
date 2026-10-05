@@ -1,0 +1,491 @@
+[
+  {
+    "id": "1",
+    "status": "past",
+    "date": "2026-09-27",
+    "time": "01:00",
+    "vs": "Team OME",
+    "format": "BO5",
+    "kind": "Sparing",
+    "score": "3 – 0",
+    "result": "win",
+    "detail": {
+      "oppLogo": "images/anon.png",
+      "casters": "Ridho Galon",
+      "games": [
+        {
+          "result": "win",
+          "duration": "17:31",
+          "title": "Expanding River",
+          "mvp": "Ⱥ sundongyang",
+          "a": [
+            {
+              "hero": "Hirara",
+              "player": "Ⱥ PRIA BOJONGSARI",
+              "spell": "Flame Retribution",
+              "items": [
+                "Magic Shoes",
+                "Hunter Strike",
+                "Sky Piercer",
+                "War Axe",
+                "Malefic Roar",
+                "Queens Wings"
+              ]
+            },
+            {
+              "hero": "Lylia",
+              "player": "Ⱥ sundongyang",
+              "spell": "Purify",
+              "items": [
+                "Magic Shoes",
+                "Enchanted Talisman",
+                "Glowing Wand",
+                "Wishing Lantern",
+                "Holy Crystal",
+                "Divine Glaive"
+              ]
+            },
+            {
+              "hero": "Aldous",
+              "player": "Ⱥ PRIA SETU SAWANGAN",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "Thunder Belt",
+                "Endless Battle",
+                "Malefic Roar",
+                "Dominance Ice",
+                "Rose Gold Meteor"
+              ]
+            },
+            {
+              "hero": "Karrie",
+              "player": "Ⱥ Luo Feng",
+              "spell": "Purify",
+              "items": [
+                "Tough Boots",
+                "Corrosion Scythe",
+                "Demon Hunter Sword",
+                "Golden Staff",
+                "Rose Gold Meteor",
+                "Malefic Gun"
+              ]
+            },
+            {
+              "hero": "Arlott",
+              "player": "Ⱥ PRIA PARUNG",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots Encourage",
+                "Blade of Despair",
+                "Endless Battle",
+                "Immortality",
+                "War Axe",
+                "Blood Wings"
+              ]
+            }
+          ],
+          "b": [
+            {
+              "hero": "Beatrix",
+              "player": "RRQ sykler.",
+              "spell": "Flicker",
+              "items": [
+                "Blade of Despair",
+                "Swift Boots",
+                "Malefic Gun",
+                "Sea Halberd",
+                "Rose Gold Meteor",
+                "Immortality"
+              ]
+            },
+            {
+              "hero": "Gatotkaca",
+              "player": "UCHIHA OBITO",
+              "spell": "Vengeance",
+              "items": [
+                "Arcane Boots",
+                "Concentrated Energy",
+                "Genius Wand",
+                "Holy Crystal",
+                "Divine Glaive",
+                "Ares Belt"
+              ]
+            },
+            {
+              "hero": "Tigreal",
+              "player": "dewamuda",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots Conceal",
+                "Dominance Ice",
+                "Antique Cuirass",
+                "Radiant Armor",
+                "Chastise Pauldron",
+                "Vitality Crystal"
+              ]
+            },
+            {
+              "hero": "Julian",
+              "player": "bless!!!",
+              "spell": "Flame Retribution",
+              "items": [
+                "Arcane Boots",
+                "Feather of Heaven",
+                "Concentrated Energy",
+                "Windtalker",
+                "Winter Crown",
+                "Magic Wand"
+              ]
+            },
+            {
+              "hero": "Kadita",
+              "player": "Y(ᵔ_ᵔ)Y",
+              "spell": "Petrify",
+              "items": [
+                "Arcane Boots",
+                "Glowing Wand",
+                "Genius Wand",
+                "Lightning Truncheon",
+                "Divine Glaive",
+                "Vitality Crystal"
+              ]
+            }
+          ],
+          "bansA": [
+            "Eudora",
+            "Marcel",
+            "Lukas",
+            "Hanzo",
+            "Nolan"
+          ],
+          "bansB": [
+            "Melissa",
+            "Akai",
+            "Fredrinn",
+            "Yss",
+            "Paquito"
+          ]
+        },
+        {
+          "result": "win",
+          "duration": "20:14",
+          "title": "Expanding River",
+          "mvp": "Ⱥ PRIA BOJONGSARI",
+          "a": [
+            {
+              "hero": "Lylia",
+              "player": "Ⱥ sundongyang",
+              "spell": "Purify",
+              "items": [
+                "Magic Shoes",
+                "Enchanted Talisman",
+                "Glowing Wand",
+                "Wishing Lantern",
+                "Holy Crystal",
+                "Divine Glaive"
+              ]
+            },
+            {
+              "hero": "Guinevere",
+              "player": "Ⱥ PRIA PARUNG",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots Encourage",
+                "Dominance Ice",
+                "Winter Crown",
+                "Brute Force Breastplate",
+                "Immortality",
+                "Queens Wings"
+              ]
+            },
+            {
+              "hero": "Terizla",
+              "player": "Ⱥ PRIA SETU SAWANGAN",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "War Axe",
+                "Dominance Ice",
+                "Queens Wings",
+                "Oracle",
+                "Chastise Pauldron"
+              ]
+            },
+            {
+              "hero": "Granger",
+              "player": "Ⱥ Luo Feng",
+              "spell": "Purify",
+              "items": [
+                "Hunter Strike",
+                "Tough Boots",
+                "Sky Piercer",
+                "Malefic Roar",
+                "Wind of Nature",
+                "Sea Halberd"
+              ]
+            },
+            {
+              "hero": "Suyou",
+              "player": "Ⱥ PRIA BOJONGSARI",
+              "spell": "Flame Retribution",
+              "items": [
+                "Magic Shoes",
+                "Hunter Strike",
+                "Sky Piercer",
+                "War axe",
+                "Malefic Roar",
+                "Sea Halberd"
+              ]
+            }
+          ],
+          "b": [
+            {
+              "hero": "Eudora",
+              "player": "RRQ sykler.",
+              "spell": "Flicker",
+              "items": [
+                "Arcane Boots",
+                "Genius Wand",
+                "Blood Wings",
+                "Glowing Wand",
+                "Holy Crystal",
+                "Wishing Lantern"
+              ]
+            },
+            {
+              "hero": "Freya",
+              "player": "Y(ᵔ_ᵔ)Y",
+              "spell": "Inspire",
+              "items": [
+                "Tough Boots",
+                "War Axe",
+                "Golden Staff",
+                "Ares Belt",
+                "Queens Wings",
+                "Antique Cuirass"
+              ]
+            },
+            {
+              "hero": "Tigreal",
+              "player": "dewamuda",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots Conceal",
+                "Dominance Ice",
+                "Antique Cuirass",
+                "Fleeting Time",
+                "Radiant Armor",
+                "Ares Belt"
+              ]
+            },
+            {
+              "hero": "Hayabusa",
+              "player": "UCHIHA OBITO",
+              "spell": "Flame Retribution",
+              "items": [
+                "Swift Boots",
+                "Hunter Strike",
+                "War Axe",
+                "Sea Halberd",
+                "Blade of Despair",
+                "Rose Gold Meteor"
+              ]
+            },
+            {
+              "hero": "Irithel",
+              "player": "bless!!!",
+              "spell": "Sprint",
+              "items": [
+                "Rapid Boots",
+                "Windtalker",
+                "Haas Claws",
+                "Berseker Fury",
+                "Great Dragon Spear",
+                "Malefic Gun"
+              ]
+            }
+          ],
+          "bansA": [
+            "Marcel",
+            "Nolan",
+            "Hanzo",
+            "Melissa",
+            "Saber"
+          ],
+          "bansB": [
+            "Angela",
+            "Hirara",
+            "Yss",
+            "Karrie",
+            "Paquito"
+          ]
+        },
+        {
+          "result": "win",
+          "duration": "17:11",
+          "title": "Expanding River",
+          "mvp": "Ⱥ sundongyang",
+          "a": [
+            {
+              "hero": "Hirara",
+              "player": "Ⱥ PRIA BOJONGSARI",
+              "spell": "Ice Retribution",
+              "items": [
+                "Magic Shoes",
+                "Hunter Strike",
+                "Sky Piercer",
+                "War Axe",
+                "Malefic Roar",
+                "Winter Crown"
+              ]
+            },
+            {
+              "hero": "Cici",
+              "player": "Ⱥ PRIA SETU SAWANGAN",
+              "spell": "Vengeance",
+              "items": [
+                "Tough Boots",
+                "War Axe",
+                "Brute Force Breastplate",
+                "Hunter Strike",
+                "Queens Wings",
+                "Legion Sword"
+              ]
+            },
+            {
+              "hero": "Kadita",
+              "player": "Ⱥ Luo Feng",
+              "spell": "Petrify",
+              "items": [
+                "Genius Wand",
+                "Arcane Boots",
+                "Lightning Truncheon",
+                "Blood Wings",
+                "Glowing Wand",
+                "Mystery Codex"
+              ]
+            },
+            {
+              "hero": "Akai",
+              "player": "Ⱥ PRIA PARUNG",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots Encourage",
+                "Cursed Helmet",
+                "Guardian Helmet",
+                "Dominance Ice",
+                "Antique Cuirass",
+                "Vitality Crystal"
+              ]
+            },
+            {
+              "hero": "Natan",
+              "player": "Ⱥ sundongyang",
+              "spell": "Aegis",
+              "items": [
+                "Arcane Boots",
+                "Feather of Heaven",
+                "Concentrated Energy",
+                "Windtalker",
+                "Divine Glaive",
+                "Holy Crystal"
+              ]
+            }
+          ],
+          "b": [
+            {
+              "hero": "Tigreal",
+              "player": "dewamuda",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots Encourage",
+                "Dominance Ice",
+                "Antique Cuirass",
+                "Radiant Armor",
+                "Fleeting Time"
+              ]
+            },
+            {
+              "hero": "Brody",
+              "player": "bless!!!",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots",
+                "Blade of the Heptaseas",
+                "Rose Gold Meteor",
+                "Malefic Gun",
+                "Blade of Despair",
+                "Sea Halberd"
+              ]
+            },
+            {
+              "hero": "Hayabusa",
+              "player": "Y(ᵔ_ᵔ)Y",
+              "spell": "Flame Retribution",
+              "items": [
+                "Magic Shoes",
+                "Malefic Roar",
+                "Sea Halberd",
+                "War Axe",
+                "Blade of Despair",
+                "Fury Hammer"
+              ]
+            },
+            {
+              "hero": "Aldous",
+              "player": "UCHIHA OBITO",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "Blade of the Heptaseas",
+                "Endless Battle",
+                "Malefic Roar",
+                "Hunter Strike",
+                "Ares Belt"
+              ]
+            },
+            {
+              "hero": "Valir",
+              "player": "RRQ sykler.",
+              "spell": "Flicker",
+              "items": [
+                "Magic Shoes",
+                "Glowing Wand",
+                "Ice Queen Wand",
+                "Wishing Lantern",
+                "Divine Glaive"
+              ]
+            }
+          ],
+          "bansA": [
+            "Marcel",
+            "Eudora",
+            "Lukas",
+            "Obsidia",
+            "Nolan"
+          ],
+          "bansB": [
+            "Lylia",
+            "Karrie",
+            "Paquito",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "status": "upcoming",
+    "date": "2026-10-03",
+    "time": "19:00",
+    "vs": "KODAM BABI",
+    "format": "BO5",
+    "kind": "Scrim",
+    "score": "",
+    "result": "win",
+    "detail": null
+  }
+]
