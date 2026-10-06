@@ -1,5 +1,17 @@
 [
   {
+    "id": "2",
+    "status": "cancel",
+    "date": "2026-10-03",
+    "time": "19:00",
+    "vs": "KODAM BABI",
+    "format": "BO5",
+    "kind": "Sparing",
+    "score": "",
+    "result": "win",
+    "detail": null
+  },
+  {
     "id": "1",
     "status": "past",
     "date": "2026-09-27",
@@ -475,17 +487,5 @@
         }
       ]
     }
-  },
-  {
-    "id": "2",
-    "status": "upcoming",
-    "date": "2026-10-03",
-    "time": "19:00",
-    "vs": "KODAM BABI",
-    "format": "BO5",
-    "kind": "Scrim",
-    "score": "",
-    "result": "win",
-    "detail": null
   }
 ]
