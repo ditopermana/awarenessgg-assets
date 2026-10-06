@@ -245,6 +245,32 @@
     "lastMatch": null
   },
   {
+    "role": "Roamer / Exp Laner",
+    "ign": "Ⱥ PRIA MEDAN",
+    "realName": "RAJA SUTAN",
+    "jersey": "09",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajunime-muw8dhg3.jpg",
+    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajunime-muw8dkm7.jpg",
+    "winRate": "55.35%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "67"
+    },
+    "bio": "Si raju pria asal medan wak.",
+    "heroes": [
+      "Akai",
+      "Grock",
+      "Tigreal",
+      "Cici"
+    ],
+    "instagram": "raja_sutan02",
+    "lastMatch": null
+  },
+  {
     "role": "HEAD COACH",
     "ign": "Ⱥ SUNDONGYANG",
     "realName": "Sianjas",
@@ -278,32 +304,6 @@
       "result": "win",
       "matchId": "match-1"
     }
-  },
-  {
-    "role": "Roamer / Exp Laner",
-    "ign": "Ⱥ PRIA MEDAN",
-    "realName": "RAJA SUTAN",
-    "jersey": "09",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajunime-muw8dhg3.jpg",
-    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajunime-muw8dkm7.jpg",
-    "winRate": "55.35%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "II"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "67"
-    },
-    "bio": "Si raju pria asal medan wak.",
-    "heroes": [
-      "Akai",
-      "Grock",
-      "Tigreal",
-      "Cici"
-    ],
-    "instagram": "raja_sutan02",
-    "lastMatch": null
   },
   {
     "role": "Mid Laner",
