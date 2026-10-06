@@ -487,5 +487,17 @@
         }
       ]
     }
+  },
+  {
+    "id": "3",
+    "status": "upcoming",
+    "date": "2026-10-29",
+    "time": "19:00",
+    "vs": "Team ABI",
+    "format": "BO3",
+    "kind": "Sparing",
+    "score": "",
+    "result": "win",
+    "detail": null
   }
 ]
