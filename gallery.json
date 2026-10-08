@@ -30,5 +30,13 @@
     "type": "image",
     "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/c5a1ffba-e100-4d01-a2c2-5bc76964f553-muzibx0g.jpeg",
     "home": true
+  },
+  {
+    "id": "gallery-tester-2",
+    "cat": "event",
+    "title": "tester 2",
+    "type": "image",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/61b5f2fb-acf0-416e-909c-abff7350f974-muzitc1i.jpeg",
+    "home": true
   }
 ]
