@@ -22,13 +22,5 @@
     "type": "video",
     "src": "images/punyadaus1.mp4",
     "home": false
-  },
-  {
-    "id": "gallery-tester-2",
-    "cat": "event",
-    "title": "tester 2",
-    "type": "image",
-    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/61b5f2fb-acf0-416e-909c-abff7350f974-muzitc1i.jpeg",
-    "home": true
   }
 ]
