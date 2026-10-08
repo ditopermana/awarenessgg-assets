@@ -2,7 +2,24 @@
   "hero": {
     "image": "images/daus.webp",
     "badge": "FAJAR FIRDAUS",
-    "text": "Team Awareness tapi membernya ga aware aware terutama yg namanya adam faridz."
+    "text": "Team Awareness tapi membernya ga aware aware terutama yg namanya adam faridz.",
+    "stats": [
+      {
+        "value": "2019",
+        "suffix": "",
+        "label": "Berdiri Sejak"
+      },
+      {
+        "value": "11",
+        "suffix": "",
+        "label": "Player Aktif"
+      },
+      {
+        "value": "69",
+        "suffix": "%",
+        "label": "Win Rate"
+      }
+    ]
   },
   "about": {
     "image": "images/sqawareness.jpg",
