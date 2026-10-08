@@ -1,11 +1,37 @@
 {
   "hero": {
     "image": "images/daus.webp",
-    "badge": "FAJAR FIRDAUS"
+    "badge": "FAJAR FIRDAUS",
+    "text": "Team Awareness tapi membernya ga aware aware terutama yg namanya adam faridz."
   },
   "about": {
     "image": "images/sqawareness.jpg",
-    "quote": "ah masa"
+    "quote": "ah masa",
+    "title": "Team Awareness must go on.",
+    "text": "Depok City"
+  },
+  "achievements": {
+    "title": "Pencapaian terbaru",
+    "items": [
+      {
+        "tag": "Runner-up",
+        "tone": "lime",
+        "title": "Piala Kemerdekaan 2024",
+        "desc": "Lomba makan kerupuk."
+      },
+      {
+        "tag": "Semifinalis",
+        "tone": "violet",
+        "title": "Piala Kemerdekaan 2025",
+        "desc": "Lomba balap karung."
+      },
+      {
+        "tag": "Juara Grup",
+        "tone": "lime",
+        "title": "Piala Kemerdekaan 2026",
+        "desc": "Lomba panjat pinang."
+      }
+    ]
   },
   "sponsors": [
     {
