@@ -309,34 +309,6 @@
   },
   {
     "role": "Mid Laner",
-    "ign": "Ⱥ Mengkudu•",
-    "realName": "Mymar",
-    "jersey": "♀",
-    "photoFront": "images/mar11.png",
-    "photoBack": "images/mar22.png",
-    "winRate": "53.29%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "I"
-    },
-    "highestRank": {
-      "tier": "immortal",
-      "star": "131"
-    },
-    "bio": "Penyedia damage area utama yang rajin melakukan roaming untuk membantu jalur side.",
-    "heroes": [
-      "Lylia",
-      "Vexana",
-      "Aurora",
-      "Nana",
-      "Pharsa",
-      "LuoYi"
-    ],
-    "instagram": "markh198",
-    "lastMatch": null
-  },
-  {
-    "role": "Mid Laner",
     "ign": "Ⱥ PRIA SAWANGAN",
     "realName": "DWI",
     "jersey": "09",
@@ -361,6 +333,34 @@
       "Xavier"
     ],
     "instagram": "",
+    "lastMatch": null
+  },
+  {
+    "role": "Mid Laner",
+    "ign": "Ⱥ Mengkudu•",
+    "realName": "Mymar",
+    "jersey": "♀",
+    "photoFront": "images/mar11.png",
+    "photoBack": "images/mar22.png",
+    "winRate": "53.29%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "I"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "131"
+    },
+    "bio": "Penyedia damage area utama yang rajin melakukan roaming untuk membantu jalur side.",
+    "heroes": [
+      "Lylia",
+      "Vexana",
+      "Aurora",
+      "Nana",
+      "Pharsa",
+      "LuoYi"
+    ],
+    "instagram": "markh198",
     "lastMatch": null
   }
 ]
