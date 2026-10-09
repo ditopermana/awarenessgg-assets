@@ -362,5 +362,33 @@
     ],
     "instagram": "markh198",
     "lastMatch": null
+  },
+  {
+    "role": "Roamer",
+    "ign": "Ⱥ Ehh Mandra, Diem lu!",
+    "realName": "Fatta Anggita",
+    "jersey": "10",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/newplayer-mv0byrkx.webp",
+    "photoBack": "",
+    "winRate": "55.07%",
+    "currentRank": {
+      "tier": "mythic",
+      "star": "23"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "90"
+    },
+    "bio": "New player from bojongsari.",
+    "heroes": [
+      "Khufra",
+      "Kaja",
+      "Franco",
+      "Hylos",
+      "Tigreal",
+      "Gatotkaca"
+    ],
+    "instagram": "fatta.14",
+    "lastMatch": null
   }
 ]
