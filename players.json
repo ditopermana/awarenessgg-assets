@@ -334,5 +334,33 @@
     ],
     "instagram": "markh198",
     "lastMatch": null
+  },
+  {
+    "role": "Mid Laner",
+    "ign": "Ⱥ PRIA SAWANGAN",
+    "realName": "DWI",
+    "jersey": "09",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/newplayer-mv0byrkx.webp",
+    "photoBack": "",
+    "winRate": "50.31",
+    "currentRank": {
+      "tier": "legend",
+      "star": "I"
+    },
+    "highestRank": {
+      "tier": "honor",
+      "star": "48"
+    },
+    "bio": "New player.",
+    "heroes": [
+      "Selena",
+      "LuoYi",
+      "Kagura",
+      "Cecilion",
+      "Eudora",
+      "Xavier"
+    ],
+    "instagram": "",
+    "lastMatch": null
   }
 ]
