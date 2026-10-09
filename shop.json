@@ -46,21 +46,5 @@
       "images/shop/hoodie-1.jpg",
       "images/shop/hoodie-2.jpg"
     ]
-  },
-  {
-    "id": "produk-keychain-gusti",
-    "cat": "accessories",
-    "name": "Keychain Acrylic - Mas Gusti",
-    "detailName": "",
-    "orderName": "Keychain Acrylic - Gusti",
-    "desc": "Gantungan kunci akrilik bening dengan cutting bergambar Player.",
-    "price": "Rp18.000",
-    "badge": "",
-    "comingSoon": false,
-    "hidden": true,
-    "images": [
-      "images/gustikeychain.webp",
-      "images/gustikeychain2.webp"
-    ]
   }
 ]
