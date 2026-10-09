@@ -273,34 +273,6 @@
     "lastMatch": null
   },
   {
-    "role": "ASS COACH",
-    "ign": "Ⱥ PRIA RENI",
-    "realName": "Ridho Galon",
-    "jersey": "AC",
-    "photoFront": "images/ridho.webp",
-    "photoBack": "images/ridho2nd.webp",
-    "winRate": "99.99%",
-    "currentRank": {
-      "tier": "immortal",
-      "star": "1991"
-    },
-    "highestRank": {
-      "tier": "immortal",
-      "star": "2003"
-    },
-    "bio": "Anak bawanggg.",
-    "heroes": [
-      "Angela",
-      "Angela",
-      "Angela",
-      "Angela",
-      "Angela",
-      "Angela"
-    ],
-    "instagram": "mhmmdrdhfaiz",
-    "lastMatch": null
-  },
-  {
     "role": "Roamer",
     "ign": "Ⱥ Ehh Mandra, Diem lu!",
     "realName": "Fatta Anggita",
@@ -326,6 +298,34 @@
       "Gatotkaca"
     ],
     "instagram": "fatta.14",
+    "lastMatch": null
+  },
+  {
+    "role": "ASS COACH",
+    "ign": "Ⱥ PRIA RENI",
+    "realName": "Ridho Galon",
+    "jersey": "AC",
+    "photoFront": "images/ridho.webp",
+    "photoBack": "images/ridho2nd.webp",
+    "winRate": "99.99%",
+    "currentRank": {
+      "tier": "immortal",
+      "star": "1991"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "2003"
+    },
+    "bio": "Anak bawanggg.",
+    "heroes": [
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela"
+    ],
+    "instagram": "mhmmdrdhfaiz",
     "lastMatch": null
   },
   {
