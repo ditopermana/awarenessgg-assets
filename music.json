@@ -36,21 +36,21 @@
     "lyrics": ""
   },
   {
-    "id": "lagu-alkateri-egosentris",
-    "artist": "Alkateri",
-    "title": "Egosentris",
-    "audio": "https://awarenessgg.com/music/track-05.mp3",
-    "cover": "https://awarenessgg.com/music/covers/kontemplasi-mv0fcwuv.jpg",
-    "lyricsUrl": "https://awarenessgg.com/music/lyrics/egosentris-mv0fs2l4.lrc",
-    "lyrics": ""
-  },
-  {
     "id": "lagu-morfem-di-sini-saja-jangan-kemana-mana",
     "artist": "MORFEM",
     "title": "Di Sini Saja (Jangan Kemana-mana)",
     "audio": "https://awarenessgg.com/music/audio/morfem---disini-saja-jangan-kemana-mana--mv1uc067.mp3",
     "cover": "https://awarenessgg.com/music/covers/morfemalbumssj-mv1uc0ku.jpg",
     "lyricsUrl": "https://awarenessgg.com/music/lyrics/disini-saja-jangan-kemana-mana--mv1ucos0.lrc",
+    "lyrics": ""
+  },
+  {
+    "id": "lagu-alkateri-egosentris",
+    "artist": "Alkateri",
+    "title": "Egosentris",
+    "audio": "https://awarenessgg.com/music/track-05.mp3",
+    "cover": "https://awarenessgg.com/music/covers/kontemplasi-mv0fcwuv.jpg",
+    "lyricsUrl": "https://awarenessgg.com/music/lyrics/egosentris-mv0fs2l4.lrc",
     "lyrics": ""
   }
 ]
