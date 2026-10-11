@@ -22,5 +22,13 @@
     "type": "video",
     "src": "images/punyadaus1.mp4",
     "home": false
+  },
+  {
+    "id": "gallery-gameplay-daus",
+    "cat": "match",
+    "title": "Gameplay Daus",
+    "type": "video",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/matchdaus-mv3zdqkw.mp4",
+    "home": false
   }
 ]
