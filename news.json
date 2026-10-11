@@ -1,5 +1,23 @@
 [
   {
+    "id": "berita-hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda",
+    "title": "Hasil MPL ID S18: Maykidss MVP! King Slayer Tunda Macan ke Playoff",
+    "slug": "hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda-macan-ke-playoff",
+    "keywords": "MPL ID S18, Mobile Legends, Esports",
+    "author": "sundongyang",
+    "authorIg": "ditoanjaspermana_",
+    "authorImage": "",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/news/mplids18-3-mv3pk2u8.jpg",
+    "imageX": 50,
+    "imageY": 50,
+    "imageFull": false,
+    "imageBlur": 50,
+    "content": "",
+    "date": "2026-10-11",
+    "time": "18:20",
+    "hidden": true
+  },
+  {
     "id": "berita-mpl-id-s18-tiga-pertandingan-warnai-hari-terakhir",
     "title": "MPL ID S18: Tiga Pertandingan Warnai Hari Terakhir Week 8",
     "slug": "mpl-id-s18-tiga-pertandingan-warnai-hari-terakhir",
@@ -51,24 +69,6 @@
     "content": "<p>hebat banget yaa guys</p>",
     "date": "2026-10-09",
     "time": "",
-    "hidden": true
-  },
-  {
-    "id": "berita-hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda",
-    "title": "Hasil MPL ID S18: Maykidss MVP! King Slayer Tunda Macan ke Playoff",
-    "slug": "hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda-macan-ke-playoff",
-    "keywords": "MPL ID S18, Mobile Legends, Esports",
-    "author": "sundongyang",
-    "authorIg": "ditoanjaspermana_",
-    "authorImage": "",
-    "image": "",
-    "imageX": 50,
-    "imageY": 50,
-    "imageFull": false,
-    "imageBlur": 50,
-    "content": "",
-    "date": "2026-10-11",
-    "time": "18:20",
     "hidden": true
   }
 ]
