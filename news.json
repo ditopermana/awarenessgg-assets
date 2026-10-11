@@ -1,5 +1,23 @@
 [
   {
+    "id": "berita-rekap-royal-derby-s18-onic-bungkam-sang-raja-rrq",
+    "title": "Rekap Royal Derby S18: ONIC Bungkam Sang Raja, RRQ Absen Playoff 3 Musim Berturut-turut",
+    "slug": "rekap-royal-derby-s18-onic-bungkam-sang-raja-rrq-absen-playoff-3-musim-berturut-turut",
+    "keywords": "MPL ID S18, Mobile Legends, Esports",
+    "author": "sundongyang",
+    "authorIg": "ditoanjaspermana_",
+    "authorImage": "",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/news/mplids18-4-mv3xcj1s.jpg",
+    "imageX": 50,
+    "imageY": 50,
+    "imageFull": true,
+    "imageBlur": 25,
+    "content": "",
+    "date": "2026-10-11",
+    "time": "21:34",
+    "hidden": true
+  },
+  {
     "id": "berita-hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda",
     "title": "Hasil MPL ID S18: Maykidss MVP! King Slayer Tunda Macan ke Playoff",
     "slug": "hasil-mpl-id-s18-maykidss-mvp-king-slayer-tunda-macan-ke-playoff",
@@ -69,24 +87,6 @@
     "content": "<p>hebat banget yaa guys</p>",
     "date": "2026-10-09",
     "time": "",
-    "hidden": true
-  },
-  {
-    "id": "berita-rekap-royal-derby-s18-onic-bungkam-sang-raja-rrq",
-    "title": "Rekap Royal Derby S18: ONIC Bungkam Sang Raja, RRQ Absen Playoff 3 Musim Berturut-turut",
-    "slug": "rekap-royal-derby-s18-onic-bungkam-sang-raja-rrq-absen-playoff-3-musim-berturut-turut",
-    "keywords": "MPL ID S18, Mobile Legends, Esports",
-    "author": "sundongyang",
-    "authorIg": "ditoanjaspermana_",
-    "authorImage": "",
-    "image": "",
-    "imageX": 50,
-    "imageY": 50,
-    "imageFull": false,
-    "imageBlur": 50,
-    "content": "",
-    "date": "2026-10-11",
-    "time": "21:34",
     "hidden": true
   }
 ]
