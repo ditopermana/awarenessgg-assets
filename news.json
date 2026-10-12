@@ -131,5 +131,24 @@
     "date": "2026-10-09",
     "time": "",
     "hidden": true
+  },
+  {
+    "id": "berita-update-klasemen-regular-season-week-8-day-3",
+    "title": "Update Klasemen Regular Season Week 8 Day 3",
+    "slug": "update-klasemen-regular-season-week-8-day-3",
+    "keywords": "MPL ID S18, Mobile Legends, Esports",
+    "author": "sundongyang",
+    "authorIg": "ditoanjaspermana_",
+    "authorImage": "",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/mplids18-6.jpg",
+    "imageX": 50,
+    "imageY": 50,
+    "imageFull": false,
+    "imageBlur": 50,
+    "imageSource": "",
+    "content": "",
+    "date": "2026-10-12",
+    "time": "13:43",
+    "hidden": true
   }
 ]
