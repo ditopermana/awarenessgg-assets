@@ -5,7 +5,12 @@
     "title": "Ngegrill part 1",
     "type": "image",
     "src": "images/bakar1.jpg",
-    "home": true
+    "home": true,
+    "desc": "",
+    "ratio": "4/3",
+    "fx": 0,
+    "fy": 50,
+    "zoom": 100
   },
   {
     "id": "gallery-ngegrill-2",
@@ -13,7 +18,12 @@
     "title": "Ngegrill part 2",
     "type": "image",
     "src": "images/bakar2.jpg",
-    "home": true
+    "home": true,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
   },
   {
     "id": "gallery-video-daus",
@@ -21,7 +31,12 @@
     "title": "Cuplikan Match Daus",
     "type": "video",
     "src": "images/punyadaus1.mp4",
-    "home": false
+    "home": false,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
   },
   {
     "id": "gallery-gameplay-daus",
@@ -29,6 +44,11 @@
     "title": "Gameplay Daus",
     "type": "video",
     "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/matchdaus-mv3zdqkw.mp4",
-    "home": false
+    "home": false,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
   }
 ]
