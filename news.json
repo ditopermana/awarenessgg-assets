@@ -150,5 +150,24 @@
     "date": "2026-10-09",
     "time": "",
     "hidden": true
+  },
+  {
+    "id": "berita-the-last-dance-mpl-id-s18-fix-jadi-musim-terakhir",
+    "title": "The Last Dance! MPL ID S18 Fix Jadi Musim Terakhir di XO Hall",
+    "slug": "the-last-dance-mpl-id-s18-fix-jadi-musim-terakhir-di-xo-hall",
+    "keywords": "MPL ID S18, Mobile Legends, Esports",
+    "author": "sundongyang",
+    "authorIg": "ditoanjaspermana_",
+    "authorImage": "",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/news/xohall-mv6biiww.jpg",
+    "imageX": 50,
+    "imageY": 26,
+    "imageFull": true,
+    "imageBlur": 20,
+    "imageSource": "MPL Indonesia",
+    "content": "",
+    "date": "2026-10-13",
+    "time": "13:45",
+    "hidden": true
   }
 ]
