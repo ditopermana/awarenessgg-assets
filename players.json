@@ -15,6 +15,10 @@
       "star": "102"
     },
     "bio": "Dikenal karena kemampuan zoning dan membaca timing rotasi lawan.",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard3-mv68ti4y.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Tangerang Selatan, Indonesia",
     "heroes": [
@@ -44,6 +48,10 @@
       "star": "82"
     },
     "bio": "Playmaker utama tim, spesialis kontrol tempo dan perebutan Lord/Turtle.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -80,6 +88,10 @@
       "star": "109"
     },
     "bio": "Player cbz banget tapi kuat dalam matchup mage burst.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -109,6 +121,10 @@
       "star": "54"
     },
     "bio": "Damage dealer utama di late game, dikenal karena efisiensi farming.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -138,6 +154,10 @@
       "star": "51"
     },
     "bio": "Player paling bapuk dan paling sering ngetroll di team.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -174,6 +194,10 @@
       "star": "75"
     },
     "bio": "Pemain duel satu lawan satu yang stabil dan selalu siap menjadi initiator sekunder tim.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -210,6 +234,10 @@
       "star": "114"
     },
     "bio": "Jungler agresif yang pandai memanfaatkan early game untuk ganking ke jalur lawan.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Tangerang Selatan, Indonesia",
     "heroes": [
@@ -239,6 +267,10 @@
       "star": "67"
     },
     "bio": "Si raju pria asal medan wak.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "1999-02-03",
     "origin": "Sumatera Utara, Indonesia",
     "heroes": [
@@ -268,6 +300,10 @@
       "star": "48"
     },
     "bio": "New player.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -297,6 +333,10 @@
       "star": "90"
     },
     "bio": "New player from bojongsari.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -326,6 +366,10 @@
       "star": "2003"
     },
     "bio": "Yang telah pergi akan selalu terkenang, dan sambutlah yang akan datang.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "1945-08-17",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -355,6 +399,10 @@
       "star": "190"
     },
     "bio": "Spesialis drafting, strategi makro tim dan berfokus pada eksekusi game plan.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "",
     "origin": "Sheffield, England",
     "heroes": [
@@ -391,6 +439,10 @@
       "star": "131"
     },
     "bio": "Penyedia damage area utama yang rajin melakukan roaming untuk membantu jalur side.",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "birthdate": "1998-05-28",
     "origin": "Jakarta, Indonesia",
     "heroes": [
