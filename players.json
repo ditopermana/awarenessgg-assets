@@ -542,7 +542,7 @@
     "role": "Mid Laner",
     "ign": "Ⱥ Mengkudu•",
     "realName": "Mymar",
-    "photoFront": "images/mar11.png",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/dinoijo-mv8j33rv.gif",
     "photoBack": "images/mar22.png",
     "winRate": "53.29%",
     "currentRank": {
@@ -579,7 +579,7 @@
     "facebook": "",
     "tiktok": "",
     "lastMatch": {
-      "vs": "Team IPEH",
+      "vs": "Team WS",
       "date": "13 - 10 - 2026",
       "bo": "BO3",
       "score": "2 - 0",
