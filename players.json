@@ -24,7 +24,7 @@
     "fgZoom2": 100,
     "fgY": null,
     "fgY2": null,
-    "fgFit": false,
+    "fgFit": true,
     "fgFit2": false,
     "birthdate": "2000-09-17",
     "origin": "Tangerang Selatan, Indonesia",
