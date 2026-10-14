@@ -451,7 +451,7 @@
     "role": "ASS COACH",
     "ign": "Ⱥ PRIA RENI",
     "realName": "Ridho Galon",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/spongebobgeleng.gif",
+    "photoFront": "images/ridho.webp",
     "photoBack": "images/ridho2nd.webp",
     "winRate": "99.99%",
     "currentRank": {
@@ -468,7 +468,7 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
-    "fgZoom": 99,
+    "fgZoom": 100,
     "fgZoom2": 100,
     "fgY": null,
     "fgY2": null,
