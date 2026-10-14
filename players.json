@@ -20,6 +20,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "2000-09-17",
     "origin": "Tangerang Selatan, Indonesia",
     "heroes": [
@@ -56,6 +58,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "2001-08-08",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -99,6 +103,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "2001-07-13",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -135,6 +141,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -171,6 +179,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -214,6 +224,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -257,6 +269,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Tangerang Selatan, Indonesia",
     "heroes": [
@@ -293,6 +307,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "1999-02-03",
     "origin": "Sumatera Utara, Indonesia",
     "heroes": [
@@ -329,6 +345,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -365,6 +383,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -408,6 +428,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "1945-08-17",
     "origin": "Depok, Indonesia",
     "heroes": [
@@ -428,7 +450,7 @@
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
     "photoFront": "images/sianjas22.png",
-    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/2esh-transparent-gif-mv87c3k8.webp",
+    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/img_7261-mv885pz3.gif",
     "winRate": "90.66%",
     "currentRank": {
       "tier": "honor",
@@ -444,6 +466,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "2001-03-29",
     "origin": "Sheffield, England",
     "heroes": [
@@ -487,6 +511,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
     "birthdate": "1998-05-28",
     "origin": "Jakarta, Indonesia",
     "heroes": [
