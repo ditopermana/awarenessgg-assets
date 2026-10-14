@@ -542,7 +542,7 @@
     "role": "Mid Laner",
     "ign": "Ⱥ Mengkudu•",
     "realName": "Mymar",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/dinoijo-mv8j33rv.gif",
+    "photoFront": "images/mar11.png",
     "photoBack": "images/mar22.png",
     "winRate": "53.29%",
     "currentRank": {
@@ -563,7 +563,7 @@
     "fgZoom2": 100,
     "fgY": null,
     "fgY2": null,
-    "fgFit": true,
+    "fgFit": false,
     "fgFit2": false,
     "birthdate": "1998-05-28",
     "origin": "Jakarta, Indonesia",
