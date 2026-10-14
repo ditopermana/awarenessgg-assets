@@ -468,7 +468,7 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
-    "fgZoom": 100,
+    "fgZoom": 99,
     "fgZoom2": 100,
     "fgY": null,
     "fgY2": null,
