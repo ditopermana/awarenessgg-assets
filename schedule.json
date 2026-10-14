@@ -12,6 +12,317 @@
     "detail": null
   },
   {
+    "id": "4",
+    "status": "past",
+    "date": "2026-10-13",
+    "time": "22:00",
+    "vs": "Team WS",
+    "format": "BO3",
+    "kind": "Sparing",
+    "score": "2 - 0",
+    "result": "win",
+    "detail": {
+      "oppLogo": "/images/anon.png",
+      "casters": "Gak ada",
+      "games": [
+        {
+          "result": "win",
+          "duration": "12:39",
+          "title": "Revealing Wisps",
+          "mvp": "Ⱥ sundongyang",
+          "a": [
+            {
+              "hero": "Paquito",
+              "player": "INS DavisCRA",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "Hunter Strike",
+                "Sea Halberd",
+                "Malefic Roar",
+                "Ares Belt"
+              ]
+            },
+            {
+              "hero": "Hirara",
+              "player": "Ⱥ PRIA BOJONGSARI",
+              "spell": "Ice Retribution",
+              "items": [
+                "Magic Shoes",
+                "Hunter Strike",
+                "War Axe",
+                "Sky Piercer",
+                "Malefic Roar",
+                "Queens Wings"
+              ]
+            },
+            {
+              "hero": "Atlas",
+              "player": "Ⱥ Eh Mandra, Diem lu!",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots Encourage",
+                "Antique Cuirass",
+                "Fleeting Time",
+                "Steel Legplates",
+                "Radiant Armor",
+                "Ares Belt"
+              ]
+            },
+            {
+              "hero": "Brody",
+              "player": "Ⱥ sundongyang",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots",
+                "Blade of the Heptaseas",
+                "Sky Piercer",
+                "Malefic Gun",
+                "Winter Crown",
+                "Rose Gold Meteor"
+              ]
+            },
+            {
+              "hero": "Vexana",
+              "player": "Ⱥ Mengkudu•",
+              "spell": "Flicker",
+              "items": [
+                "Arcane Boots",
+                "Glowing Wand",
+                "Lightning Truncheon",
+                "Divine Glaive",
+                "Magic Wand",
+                "Mystery Codex"
+              ]
+            }
+          ],
+          "b": [
+            {
+              "hero": "Marcel",
+              "player": "Gage",
+              "spell": "Revitalize",
+              "items": [
+                "Rapid Boots Encourage",
+                "Thunder Belt",
+                "Dominance Ice",
+                "Flask of the Oasis",
+                "Heros Ring",
+                "Heros Ring"
+              ]
+            },
+            {
+              "hero": "Miya",
+              "player": "Kuriyama(Mirai)",
+              "spell": "Inspire",
+              "items": [
+                "Windtalker",
+                "Swift Boots",
+                "Berseker Fury",
+                "Haas Claws",
+                "Knife"
+              ]
+            },
+            {
+              "hero": "Kalea",
+              "player": "DisneyBoy121",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "Oracle",
+                "Antique Cuirass",
+                "Ares Belt",
+                "Heros Ring"
+              ]
+            },
+            {
+              "hero": "Martis",
+              "player": "\"JKT48\"^Zee^",
+              "spell": "Ice Retribution",
+              "items": [
+                "Tough Boots",
+                "Sky Piercer",
+                "Hunter Strike",
+                "War Axe"
+              ]
+            },
+            {
+              "hero": "Valir",
+              "player": "Lunellwa.",
+              "spell": "Flicker",
+              "items": [
+                "Magic Shoes",
+                "Glowing Wand",
+                "Ice Queen Wand",
+                "Magic Wand"
+              ]
+            }
+          ],
+          "bansA": [
+            "Eudora",
+            "Belerick",
+            "Obsidia",
+            "Aulus",
+            "Lukas"
+          ],
+          "bansB": [
+            "Valentina",
+            "Bruno",
+            "Kaja",
+            "Rafaela",
+            "Yss"
+          ]
+        },
+        {
+          "result": "win",
+          "duration": "12:43",
+          "title": "Flying Cloud",
+          "mvp": "Ⱥ Eh Mandra, Diem lu!",
+          "a": [
+            {
+              "hero": "Guinevere",
+              "player": "INS DavisCRA",
+              "spell": "Flicker",
+              "items": [
+                "Magic Shoes",
+                "Concentrated Energy",
+                "Queens Wings",
+                "Brute Force Breastplate",
+                "Expert Gloves",
+                "Heros Ring"
+              ]
+            },
+            {
+              "hero": "Fanny",
+              "player": "Ⱥ PRIA BOJONGSARI",
+              "spell": "Ice Retribution",
+              "items": [
+                "Tough Boots",
+                "Blade of the Heptaseas",
+                "Sky Piercer",
+                "Queens Wings",
+                "Rose Gold Meteor",
+                "Legion Sword"
+              ]
+            },
+            {
+              "hero": "Carmilla",
+              "player": "Ⱥ Eh Mandra, Diem lu!",
+              "spell": "Flicker",
+              "items": [
+                "Tough Boots Encourage",
+                "Radiant Armor",
+                "Chastise Pauldron",
+                "Blade Armor",
+                "Ares Belt",
+                "Vitality Crystal"
+              ]
+            },
+            {
+              "hero": "Paquito",
+              "player": "Ⱥ sundongyang",
+              "spell": "Flicker",
+              "items": [
+                "Rapid Boots",
+                "Hunter Strike",
+                "Sky Piercer",
+                "Sea Halberd",
+                "Rose Gold Meteor",
+                "Legion Sword"
+              ]
+            },
+            {
+              "hero": "Valir",
+              "player": "Ⱥ Mengkudu•",
+              "spell": "Flicker",
+              "items": [
+                "Magic Shoes",
+                "Glowing Wand",
+                "Enchanted Talisman",
+                "Ice Queen Wand",
+                "Magic Wand"
+              ]
+            }
+          ],
+          "b": [
+            {
+              "hero": "Miya",
+              "player": "Kuriyama(Mirai)",
+              "spell": "Inspire",
+              "items": [
+                "Windtalker",
+                "Sky Piercer",
+                "Swift Boots",
+                "Vampire Mallet",
+                "Berseker Fury",
+                "Rogue Meteor"
+              ]
+            },
+            {
+              "hero": "Barats",
+              "player": "DisneyBoy121",
+              "spell": "Flicker",
+              "items": [
+                "Warrior Boots",
+                "Ogre Tomahawk",
+                "Radiant Armor",
+                "Antique Cuirass",
+                "Iron Hunting Bow"
+              ]
+            },
+            {
+              "hero": "Harley",
+              "player": "\"JKT48\"^Zee^",
+              "spell": "Ice Retribution",
+              "items": [
+                "Magic Shoes",
+                "Genius Wand",
+                "Starlium Scythe",
+                "Holy Crystal"
+              ]
+            },
+            {
+              "hero": "Lylia",
+              "player": "Lunellwa.",
+              "spell": "Flicker",
+              "items": [
+                "Magic Shoes",
+                "Lightning Truncheon",
+                "Glowing Wand",
+                "Mystery Codex"
+              ]
+            },
+            {
+              "hero": "Floryn",
+              "player": "zero_404",
+              "spell": "Sprint",
+              "items": [
+                "Demon Shoes Favor",
+                "Flask of the Oasis",
+                "Fleeting Time",
+                "Dreadnaught Armor",
+                "Ares Belt"
+              ]
+            }
+          ],
+          "bansA": [
+            "Eudora",
+            "Belerick",
+            "Obsidia",
+            "Brody",
+            "Marcel"
+          ],
+          "bansB": [
+            "Bruno",
+            "Vexana",
+            "Yss",
+            "Rafaela",
+            "Kaja"
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "2",
     "status": "cancel",
     "date": "2026-10-03",
@@ -495,317 +806,6 @@
             "Paquito",
             "",
             ""
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "id": "4",
-    "status": "past",
-    "date": "2026-10-13",
-    "time": "22:00",
-    "vs": "Team IPEH",
-    "format": "BO3",
-    "kind": "Sparing",
-    "score": "2 - 0",
-    "result": "win",
-    "detail": {
-      "oppLogo": "/images/anon.png",
-      "casters": "Gak ada",
-      "games": [
-        {
-          "result": "win",
-          "duration": "12:39",
-          "title": "Revealing Wisps",
-          "mvp": "Ⱥ sundongyang",
-          "a": [
-            {
-              "hero": "Paquito",
-              "player": "INS DavisCRA",
-              "spell": "Flicker",
-              "items": [
-                "Rapid Boots",
-                "Hunter Strike",
-                "Sea Halberd",
-                "Malefic Roar",
-                "Ares Belt"
-              ]
-            },
-            {
-              "hero": "Hirara",
-              "player": "Ⱥ PRIA BOJONGSARI",
-              "spell": "Ice Retribution",
-              "items": [
-                "Magic Shoes",
-                "Hunter Strike",
-                "War Axe",
-                "Sky Piercer",
-                "Malefic Roar",
-                "Queens Wings"
-              ]
-            },
-            {
-              "hero": "Atlas",
-              "player": "Ⱥ Eh Mandra, Diem lu!",
-              "spell": "Flicker",
-              "items": [
-                "Rapid Boots Encourage",
-                "Antique Cuirass",
-                "Fleeting Time",
-                "Steel Legplates",
-                "Radiant Armor",
-                "Ares Belt"
-              ]
-            },
-            {
-              "hero": "Brody",
-              "player": "Ⱥ sundongyang",
-              "spell": "Flicker",
-              "items": [
-                "Tough Boots",
-                "Blade of the Heptaseas",
-                "Sky Piercer",
-                "Malefic Gun",
-                "Winter Crown",
-                "Rose Gold Meteor"
-              ]
-            },
-            {
-              "hero": "Vexana",
-              "player": "Ⱥ Mengkudu•",
-              "spell": "Flicker",
-              "items": [
-                "Arcane Boots",
-                "Glowing Wand",
-                "Lightning Truncheon",
-                "Divine Glaive",
-                "Magic Wand",
-                "Mystery Codex"
-              ]
-            }
-          ],
-          "b": [
-            {
-              "hero": "Marcel",
-              "player": "Gage",
-              "spell": "Revitalize",
-              "items": [
-                "Rapid Boots Encourage",
-                "Thunder Belt",
-                "Dominance Ice",
-                "Flask of the Oasis",
-                "Heros Ring",
-                "Heros Ring"
-              ]
-            },
-            {
-              "hero": "Miya",
-              "player": "Kuriyama(Mirai)",
-              "spell": "Inspire",
-              "items": [
-                "Windtalker",
-                "Swift Boots",
-                "Berseker Fury",
-                "Haas Claws",
-                "Knife"
-              ]
-            },
-            {
-              "hero": "Kalea",
-              "player": "DisneyBoy121",
-              "spell": "Flicker",
-              "items": [
-                "Rapid Boots",
-                "Oracle",
-                "Antique Cuirass",
-                "Ares Belt",
-                "Heros Ring"
-              ]
-            },
-            {
-              "hero": "Martis",
-              "player": "\"JKT48\"^Zee^",
-              "spell": "Ice Retribution",
-              "items": [
-                "Tough Boots",
-                "Sky Piercer",
-                "Hunter Strike",
-                "War Axe"
-              ]
-            },
-            {
-              "hero": "Valir",
-              "player": "Lunellwa.",
-              "spell": "Flicker",
-              "items": [
-                "Magic Shoes",
-                "Glowing Wand",
-                "Ice Queen Wand",
-                "Magic Wand"
-              ]
-            }
-          ],
-          "bansA": [
-            "Eudora",
-            "Belerick",
-            "Obsidia",
-            "Aulus",
-            "Lukas"
-          ],
-          "bansB": [
-            "Valentina",
-            "Bruno",
-            "Kaja",
-            "Rafaela",
-            "Yss"
-          ]
-        },
-        {
-          "result": "win",
-          "duration": "12:43",
-          "title": "Flying Cloud",
-          "mvp": "Ⱥ Eh Mandra, Diem lu!",
-          "a": [
-            {
-              "hero": "Guinevere",
-              "player": "INS DavisCRA",
-              "spell": "Flicker",
-              "items": [
-                "Magic Shoes",
-                "Concentrated Energy",
-                "Queens Wings",
-                "Brute Force Breastplate",
-                "Expert Gloves",
-                "Heros Ring"
-              ]
-            },
-            {
-              "hero": "Fanny",
-              "player": "Ⱥ PRIA BOJONGSARI",
-              "spell": "Ice Retribution",
-              "items": [
-                "Tough Boots",
-                "Blade of the Heptaseas",
-                "Sky Piercer",
-                "Queens Wings",
-                "Rose Gold Meteor",
-                "Legion Sword"
-              ]
-            },
-            {
-              "hero": "Carmilla",
-              "player": "Ⱥ Eh Mandra, Diem lu!",
-              "spell": "Flicker",
-              "items": [
-                "Tough Boots Encourage",
-                "Radiant Armor",
-                "Chastise Pauldron",
-                "Blade Armor",
-                "Ares Belt",
-                "Vitality Crystal"
-              ]
-            },
-            {
-              "hero": "Paquito",
-              "player": "Ⱥ sundongyang",
-              "spell": "Flicker",
-              "items": [
-                "Rapid Boots",
-                "Hunter Strike",
-                "Sky Piercer",
-                "Sea Halberd",
-                "Rose Gold Meteor",
-                "Legion Sword"
-              ]
-            },
-            {
-              "hero": "Valir",
-              "player": "Ⱥ Mengkudu•",
-              "spell": "Flicker",
-              "items": [
-                "Magic Shoes",
-                "Glowing Wand",
-                "Enchanted Talisman",
-                "Ice Queen Wand",
-                "Magic Wand"
-              ]
-            }
-          ],
-          "b": [
-            {
-              "hero": "Miya",
-              "player": "Kuriyama(Mirai)",
-              "spell": "Inspire",
-              "items": [
-                "Windtalker",
-                "Sky Piercer",
-                "Swift Boots",
-                "Vampire Mallet",
-                "Berseker Fury",
-                "Rogue Meteor"
-              ]
-            },
-            {
-              "hero": "Barats",
-              "player": "DisneyBoy121",
-              "spell": "Flicker",
-              "items": [
-                "Warrior Boots",
-                "Ogre Tomahawk",
-                "Radiant Armor",
-                "Antique Cuirass",
-                "Iron Hunting Bow"
-              ]
-            },
-            {
-              "hero": "Harley",
-              "player": "\"JKT48\"^Zee^",
-              "spell": "Ice Retribution",
-              "items": [
-                "Magic Shoes",
-                "Genius Wand",
-                "Starlium Scythe",
-                "Holy Crystal"
-              ]
-            },
-            {
-              "hero": "Lylia",
-              "player": "Lunellwa.",
-              "spell": "Flicker",
-              "items": [
-                "Magic Shoes",
-                "Lightning Truncheon",
-                "Glowing Wand",
-                "Mystery Codex"
-              ]
-            },
-            {
-              "hero": "Floryn",
-              "player": "zero_404",
-              "spell": "Sprint",
-              "items": [
-                "Demon Shoes Favor",
-                "Flask of the Oasis",
-                "Fleeting Time",
-                "Dreadnaught Armor",
-                "Ares Belt"
-              ]
-            }
-          ],
-          "bansA": [
-            "Eudora",
-            "Belerick",
-            "Obsidia",
-            "Brody",
-            "Marcel"
-          ],
-          "bansB": [
-            "Bruno",
-            "Vexana",
-            "Yss",
-            "Rafaela",
-            "Kaja"
           ]
         }
       ]
