@@ -280,7 +280,7 @@
     "src": "images/punyadaus1.mp4",
     "home": false,
     "desc": "",
-    "ratio": "",
+    "ratio": "16/9",
     "fx": 50,
     "fy": 50,
     "zoom": 100
