@@ -399,55 +399,6 @@
     "lastMatch": null
   },
   {
-    "role": "Roamer",
-    "ign": "Ⱥ Ehh Mandra, Diem lu!",
-    "realName": "Fatta Anggita",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/fatta.webp",
-    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/fatta.webp",
-    "winRate": "55.07%",
-    "currentRank": {
-      "tier": "mythic",
-      "star": "23"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "90"
-    },
-    "bio": "jangan mengusik terlalu kejam, percayalah saya lebih beracun dari anda, anjay kita ulik yuk!",
-    "voice": "https://awarenessgg.com/music/voice/fattavoice2-mv6l6qd7.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Khufra",
-      "Kaja",
-      "Franco",
-      "Hylos",
-      "Tigreal",
-      "Gatotkaca"
-    ],
-    "instagram": "fatta.14",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": {
-      "vs": "Team WS",
-      "date": "13 - 10 - 2026",
-      "bo": "BO3",
-      "score": "2 - 0",
-      "result": "win",
-      "matchId": "match-4"
-    }
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -487,6 +438,55 @@
     "instagram": "ditoanjaspermana_",
     "facebook": "ditoanjaspermana",
     "tiktok": "kadalkumur",
+    "lastMatch": {
+      "vs": "Team WS",
+      "date": "13 - 10 - 2026",
+      "bo": "BO3",
+      "score": "2 - 0",
+      "result": "win",
+      "matchId": "match-4"
+    }
+  },
+  {
+    "role": "Roamer",
+    "ign": "Ⱥ Ehh Mandra, Diem lu!",
+    "realName": "Fatta Anggita",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/fatta.webp",
+    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/fatta.webp",
+    "winRate": "55.07%",
+    "currentRank": {
+      "tier": "mythic",
+      "star": "23"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "90"
+    },
+    "bio": "jangan mengusik terlalu kejam, percayalah saya lebih beracun dari anda, anjay kita ulik yuk!",
+    "voice": "https://awarenessgg.com/music/voice/fattavoice2-mv6l6qd7.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Khufra",
+      "Kaja",
+      "Franco",
+      "Hylos",
+      "Tigreal",
+      "Gatotkaca"
+    ],
+    "instagram": "fatta.14",
+    "facebook": "",
+    "tiktok": "",
     "lastMatch": {
       "vs": "Team WS",
       "date": "13 - 10 - 2026",
