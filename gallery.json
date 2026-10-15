@@ -52,19 +52,6 @@
     "zoom": 100
   },
   {
-    "id": "gallery-gameplay-daus",
-    "cat": "match",
-    "title": "Gameplay Daus",
-    "type": "video",
-    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/matchdaus-mv3zdqkw.mp4",
-    "home": false,
-    "desc": "",
-    "ratio": "",
-    "fx": 50,
-    "fy": 50,
-    "zoom": 100
-  },
-  {
     "id": "gallery-bakar-bakar-2021-3",
     "cat": "event",
     "title": "Bakar bakar 2021",
@@ -122,6 +109,19 @@
     "title": "Cuplikan Match Daus",
     "type": "video",
     "src": "images/punyadaus1.mp4",
+    "home": false,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
+  },
+  {
+    "id": "gallery-gameplay-daus",
+    "cat": "match",
+    "title": "Gameplay Daus",
+    "type": "video",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/matchdaus-mv3zdqkw.mp4",
     "home": false,
     "desc": "",
     "ratio": "",
