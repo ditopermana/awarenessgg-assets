@@ -245,5 +245,18 @@
     "fx": 55,
     "fy": 50,
     "zoom": 100
+  },
+  {
+    "id": "gallery-kumpul-2022-3",
+    "cat": "event",
+    "title": "Kumpul 2022",
+    "type": "image",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/arsipnegara22-mv988zs9.jpeg",
+    "home": false,
+    "desc": "",
+    "ratio": "4/3",
+    "fx": 0,
+    "fy": 50,
+    "zoom": 100
   }
 ]
