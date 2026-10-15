@@ -128,5 +128,18 @@
     "fx": 50,
     "fy": 50,
     "zoom": 100
+  },
+  {
+    "id": "gallery-jalan-jalan-2021",
+    "cat": "event",
+    "title": "Jalan-jalan 2021",
+    "type": "image",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/arsipnegara6-mv97whkr.jpeg",
+    "home": false,
+    "desc": "",
+    "ratio": "5/4",
+    "fx": 50,
+    "fy": 100,
+    "zoom": 100
   }
 ]
