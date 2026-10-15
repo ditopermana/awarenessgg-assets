@@ -273,48 +273,6 @@
     }
   },
   {
-    "role": "Jungler",
-    "ign": "Ⱥ PRIA JAKARTA SELATAN",
-    "realName": "Nanda Nurochman",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/nanda-mv64mdhx.webp",
-    "photoBack": "images/nanda2nd.webp",
-    "winRate": "60.44%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "II"
-    },
-    "highestRank": {
-      "tier": "immortal",
-      "star": "114"
-    },
-    "bio": "Jungler agresif yang pandai memanfaatkan early game untuk ganking ke jalur lawan.",
-    "voice": "https://awarenessgg.com/music/voice/nandavoice-mv6ildq1.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Tangerang Selatan, Indonesia",
-    "heroes": [
-      "Nolan",
-      "Ling",
-      "Hirara",
-      "Lancelot",
-      "Gusion",
-      "Hayabusa"
-    ],
-    "instagram": "hy.nandaaaaa",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": null
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -362,6 +320,48 @@
       "result": "win",
       "matchId": "match-4"
     }
+  },
+  {
+    "role": "Jungler",
+    "ign": "Ⱥ PRIA JAKARTA SELATAN",
+    "realName": "Nanda Nurochman",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/nanda-mv64mdhx.webp",
+    "photoBack": "images/nanda2nd.webp",
+    "winRate": "60.44%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "114"
+    },
+    "bio": "Jungler agresif yang pandai memanfaatkan early game untuk ganking ke jalur lawan.",
+    "voice": "https://awarenessgg.com/music/voice/nandavoice-mv6ildq1.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Tangerang Selatan, Indonesia",
+    "heroes": [
+      "Nolan",
+      "Ling",
+      "Hirara",
+      "Lancelot",
+      "Gusion",
+      "Hayabusa"
+    ],
+    "instagram": "hy.nandaaaaa",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
   },
   {
     "role": "Roamer",
