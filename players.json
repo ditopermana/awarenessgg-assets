@@ -224,55 +224,6 @@
     }
   },
   {
-    "role": "Exp Laner",
-    "ign": "Ⱥ PRIA SETU SAWANGAN",
-    "realName": "Iqbal Rahayu",
-    "photoFront": "images/iqbal.webp",
-    "photoBack": "images/iqbal2nd.webp",
-    "winRate": "59.51%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "IV"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "75"
-    },
-    "bio": "Pemain duel satu lawan satu yang stabil dan selalu siap menjadi initiator sekunder tim.",
-    "voice": "https://awarenessgg.com/music/voice/iqbalvoice-mv6j6tsp.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Paquito",
-      "Ruby",
-      "Barats",
-      "Aldous",
-      "Chou",
-      "Badang"
-    ],
-    "instagram": "iqbal.rhy",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": {
-      "vs": "Team OME",
-      "date": "27 - 09 - 2026",
-      "bo": "BO5",
-      "score": "3 – 0",
-      "result": "win",
-      "matchId": "match-1"
-    }
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -319,6 +270,55 @@
       "score": "2 - 0",
       "result": "win",
       "matchId": "match-4"
+    }
+  },
+  {
+    "role": "Exp Laner",
+    "ign": "Ⱥ PRIA SETU SAWANGAN",
+    "realName": "Iqbal Rahayu",
+    "photoFront": "images/iqbal.webp",
+    "photoBack": "images/iqbal2nd.webp",
+    "winRate": "59.51%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "IV"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "75"
+    },
+    "bio": "Pemain duel satu lawan satu yang stabil dan selalu siap menjadi initiator sekunder tim.",
+    "voice": "https://awarenessgg.com/music/voice/iqbalvoice-mv6j6tsp.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Paquito",
+      "Ruby",
+      "Barats",
+      "Aldous",
+      "Chou",
+      "Badang"
+    ],
+    "instagram": "iqbal.rhy",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": {
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0",
+      "result": "win",
+      "matchId": "match-1"
     }
   },
   {
