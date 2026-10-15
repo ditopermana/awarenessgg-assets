@@ -13,6 +13,19 @@
     "zoom": 100
   },
   {
+    "id": "gallery-ngegrill-2",
+    "cat": "event",
+    "title": "Ngegrill part 2",
+    "type": "image",
+    "src": "images/bakar2.jpg",
+    "home": true,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
+  },
+  {
     "id": "gallery-gameplay-daus",
     "cat": "match",
     "title": "Gameplay Daus",
@@ -47,19 +60,6 @@
     "home": false,
     "desc": "",
     "ratio": "5/4",
-    "fx": 50,
-    "fy": 50,
-    "zoom": 100
-  },
-  {
-    "id": "gallery-ngegrill-2",
-    "cat": "event",
-    "title": "Ngegrill part 2",
-    "type": "image",
-    "src": "images/bakar2.jpg",
-    "home": true,
-    "desc": "",
-    "ratio": "",
     "fx": 50,
     "fy": 50,
     "zoom": 100
