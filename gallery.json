@@ -206,5 +206,18 @@
     "fx": 50,
     "fy": 50,
     "zoom": 100
+  },
+  {
+    "id": "gallery-bakar-bakar-2021-10",
+    "cat": "event",
+    "title": "Bakar bakar 2021",
+    "type": "video",
+    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/arsipnegara27-mv982d89.mp4",
+    "home": false,
+    "desc": "",
+    "ratio": "5/4",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
   }
 ]
