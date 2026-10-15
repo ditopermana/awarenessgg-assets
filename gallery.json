@@ -13,19 +13,6 @@
     "zoom": 100
   },
   {
-    "id": "gallery-video-daus",
-    "cat": "match",
-    "title": "Cuplikan Match Daus",
-    "type": "video",
-    "src": "images/punyadaus1.mp4",
-    "home": false,
-    "desc": "",
-    "ratio": "",
-    "fx": 50,
-    "fy": 50,
-    "zoom": 100
-  },
-  {
     "id": "gallery-gameplay-daus",
     "cat": "match",
     "title": "Gameplay Daus",
@@ -71,6 +58,19 @@
     "type": "image",
     "src": "images/bakar2.jpg",
     "home": true,
+    "desc": "",
+    "ratio": "",
+    "fx": 50,
+    "fy": 50,
+    "zoom": 100
+  },
+  {
+    "id": "gallery-video-daus",
+    "cat": "match",
+    "title": "Cuplikan Match Daus",
+    "type": "video",
+    "src": "images/punyadaus1.mp4",
+    "home": false,
     "desc": "",
     "ratio": "",
     "fx": 50,
