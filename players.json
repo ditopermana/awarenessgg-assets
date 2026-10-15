@@ -42,6 +42,48 @@
     "lastMatch": null
   },
   {
+    "role": "Exp Laner",
+    "ign": "Ⱥ PRIA PAMULANG",
+    "realName": "Irfan Alamsyah",
+    "photoFront": "images/irfan.webp",
+    "photoBack": "images/irfan2nd.webp",
+    "winRate": "53.78%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "V"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "102"
+    },
+    "bio": "Dikenal karena kemampuan zoning dan membaca timing rotasi lawan.",
+    "voice": "https://awarenessgg.com/music/voice/irfanvoice-mv6ifux8.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "2000-09-17",
+    "origin": "Tangerang Selatan, Indonesia",
+    "heroes": [
+      "Uranus",
+      "Sora",
+      "Phoveus",
+      "Jawhead",
+      "Edith",
+      "Esmeralda"
+    ],
+    "instagram": "bymystfy",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
+  },
+  {
     "role": "Jungler",
     "ign": "Ⱥ PRIA BOJONGSARI",
     "realName": "Gilang Rifki",
