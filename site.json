@@ -1,6 +1,10 @@
 {
   "hero": {
     "image": "images/daus.webp",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
     "badge": "FAJAR FIRDAUS",
     "text": "Team Awareness tapi membernya ga aware aware terutama yg namanya adam faridz.",
     "stats": [
