@@ -290,10 +290,10 @@
     "cat": "match",
     "title": "Gameplay Daus",
     "type": "video",
-    "src": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/matchdaus-mv3zdqkw.mp4",
+    "src": "images/gameplaydaus2.mp4",
     "home": false,
     "desc": "",
-    "ratio": "",
+    "ratio": "16/9",
     "fx": 50,
     "fy": 50,
     "zoom": 100
