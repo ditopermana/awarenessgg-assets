@@ -5,6 +5,8 @@
     "bgX": 50,
     "bgY": 50,
     "bgZoom": 100,
+    "fgZoom": 120,
+    "fgZoomM": 100,
     "badge": "FAJAR FIRDAUS",
     "text": "Team Awareness tapi membernya ga aware aware terutama yg namanya adam faridz.",
     "stats": [
