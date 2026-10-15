@@ -133,48 +133,6 @@
     "lastMatch": null
   },
   {
-    "role": "Gold Laner",
-    "ign": "Ⱥ PRIA CINANGKA",
-    "realName": "Fajar Firdaus",
-    "photoFront": "images/daus.webp",
-    "photoBack": "images/daus2nd.webp",
-    "winRate": "86.20%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "III"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "54"
-    },
-    "bio": "Damage dealer utama di late game, dikenal karena efisiensi farming.",
-    "voice": "https://awarenessgg.com/music/voice/dausvoice-mv6ipanp.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Wanwan",
-      "Brody",
-      "Claude",
-      "Beatrix",
-      "Natan",
-      "Granger"
-    ],
-    "instagram": "daussfajar28",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": null
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -222,6 +180,48 @@
       "result": "win",
       "matchId": "match-4"
     }
+  },
+  {
+    "role": "Gold Laner",
+    "ign": "Ⱥ PRIA CINANGKA",
+    "realName": "Fajar Firdaus",
+    "photoFront": "images/daus.webp",
+    "photoBack": "images/daus2nd.webp",
+    "winRate": "86.20%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "III"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "54"
+    },
+    "bio": "Damage dealer utama di late game, dikenal karena efisiensi farming.",
+    "voice": "https://awarenessgg.com/music/voice/dausvoice-mv6ipanp.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Wanwan",
+      "Brody",
+      "Claude",
+      "Beatrix",
+      "Natan",
+      "Granger"
+    ],
+    "instagram": "daussfajar28",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
   },
   {
     "role": "Gold Laner",
