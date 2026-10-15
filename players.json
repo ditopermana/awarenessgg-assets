@@ -175,55 +175,6 @@
     "lastMatch": null
   },
   {
-    "role": "Gold Laner",
-    "ign": "Ⱥ LUO FENG",
-    "realName": "Adam Faridz",
-    "photoFront": "images/adamtatto.webp",
-    "photoBack": "images/adamtatto2nd.webp",
-    "winRate": "68.81%",
-    "currentRank": {
-      "tier": "epic",
-      "star": "II"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "51"
-    },
-    "bio": "biar pun kamu keriput, tetap ku seruput.",
-    "voice": "https://awarenessgg.com/music/voice/adamvoice-mv6gec3o.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Popol",
-      "Popol",
-      "Popol",
-      "Popol",
-      "Popol",
-      "Popol"
-    ],
-    "instagram": "adamfaridzmm",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": {
-      "vs": "Team OME",
-      "date": "27 - 09 - 2026",
-      "bo": "BO5",
-      "score": "3 – 0",
-      "result": "win",
-      "matchId": "match-1"
-    }
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -270,6 +221,55 @@
       "score": "2 - 0",
       "result": "win",
       "matchId": "match-4"
+    }
+  },
+  {
+    "role": "Gold Laner",
+    "ign": "Ⱥ LUO FENG",
+    "realName": "Adam Faridz",
+    "photoFront": "images/adamtatto.webp",
+    "photoBack": "images/adamtatto2nd.webp",
+    "winRate": "68.81%",
+    "currentRank": {
+      "tier": "epic",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "51"
+    },
+    "bio": "biar pun kamu keriput, tetap ku seruput.",
+    "voice": "https://awarenessgg.com/music/voice/adamvoice-mv6gec3o.mp3",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol",
+      "Popol"
+    ],
+    "instagram": "adamfaridzmm",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": {
+      "vs": "Team OME",
+      "date": "27 - 09 - 2026",
+      "bo": "BO5",
+      "score": "3 – 0",
+      "result": "win",
+      "matchId": "match-1"
     }
   },
   {
