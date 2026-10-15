@@ -448,48 +448,6 @@
     }
   },
   {
-    "role": "ASS COACH",
-    "ign": "Ⱥ PRIA RENI",
-    "realName": "Ridho Galon",
-    "photoFront": "images/ridho.webp",
-    "photoBack": "images/ridho2nd.webp",
-    "winRate": "99.99%",
-    "currentRank": {
-      "tier": "immortal",
-      "star": "1991"
-    },
-    "highestRank": {
-      "tier": "immortal",
-      "star": "2003"
-    },
-    "bio": "Yang telah pergi akan selalu terkenang, dan sambutlah yang akan datang.",
-    "voice": "https://awarenessgg.com/music/voice/ridhovoicefix-mv6hwmfh.wav",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "1945-08-17",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Angela",
-      "Angela",
-      "Angela",
-      "Angela",
-      "Angela",
-      "Nana"
-    ],
-    "instagram": "mhmmdrdhfaiz",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": null
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -537,6 +495,48 @@
       "result": "win",
       "matchId": "match-4"
     }
+  },
+  {
+    "role": "ASS COACH",
+    "ign": "Ⱥ PRIA RENI",
+    "realName": "Ridho Galon",
+    "photoFront": "images/ridho.webp",
+    "photoBack": "images/ridho2nd.webp",
+    "winRate": "99.99%",
+    "currentRank": {
+      "tier": "immortal",
+      "star": "1991"
+    },
+    "highestRank": {
+      "tier": "immortal",
+      "star": "2003"
+    },
+    "bio": "Yang telah pergi akan selalu terkenang, dan sambutlah yang akan datang.",
+    "voice": "https://awarenessgg.com/music/voice/ridhovoicefix-mv6hwmfh.wav",
+    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "1945-08-17",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Angela",
+      "Nana"
+    ],
+    "instagram": "mhmmdrdhfaiz",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
   },
   {
     "role": "Mid Laner",
