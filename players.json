@@ -315,48 +315,6 @@
     "lastMatch": null
   },
   {
-    "role": "Roamer",
-    "ign": "Ⱥ PRIA MEDAN",
-    "realName": "RAJA SUTAN",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajasutan-muw9ilx5.webp",
-    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajasutannew2nd-muwhsyie.webp",
-    "winRate": "55.35%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "II"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "67"
-    },
-    "bio": "Si raju pria asal medan guys.",
-    "voice": "https://awarenessgg.com/music/voice/rajuvoice-mv6rfhga.mp3",
-    "bgImage": "",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "1999-02-03",
-    "origin": "Sumatera Utara, Indonesia",
-    "heroes": [
-      "Akai",
-      "Grock",
-      "Tigreal",
-      "Kaja",
-      "Minotaur",
-      "Gatotkaca"
-    ],
-    "instagram": "raja_sutan02",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": null
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -404,6 +362,48 @@
       "result": "win",
       "matchId": "match-4"
     }
+  },
+  {
+    "role": "Roamer",
+    "ign": "Ⱥ PRIA MEDAN",
+    "realName": "RAJA SUTAN",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajasutan-muw9ilx5.webp",
+    "photoBack": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/rajasutannew2nd-muwhsyie.webp",
+    "winRate": "55.35%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "II"
+    },
+    "highestRank": {
+      "tier": "glory",
+      "star": "67"
+    },
+    "bio": "Si raju pria asal medan guys.",
+    "voice": "https://awarenessgg.com/music/voice/rajuvoice-mv6rfhga.mp3",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "1999-02-03",
+    "origin": "Sumatera Utara, Indonesia",
+    "heroes": [
+      "Akai",
+      "Grock",
+      "Tigreal",
+      "Kaja",
+      "Minotaur",
+      "Gatotkaca"
+    ],
+    "instagram": "raja_sutan02",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
   },
   {
     "role": "Mid Laner",
