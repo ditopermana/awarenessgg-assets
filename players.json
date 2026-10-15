@@ -140,55 +140,6 @@
     }
   },
   {
-    "role": "Jungler",
-    "ign": "Ⱥ PRIA BOJONGSARI",
-    "realName": "Gilang Rifki",
-    "photoFront": "images/gilang.webp",
-    "photoBack": "images/gilang2nd.webp",
-    "winRate": "59.12%",
-    "currentRank": {
-      "tier": "mythic",
-      "star": "8"
-    },
-    "highestRank": {
-      "tier": "glory",
-      "star": "82"
-    },
-    "bio": "Playmaker utama tim, spesialis kontrol tempo dan perebutan Lord/Turtle.",
-    "voice": "https://awarenessgg.com/music/voice/gilangvoice-mv6igozv.mp3",
-    "bgImage": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/playerbgcard1-mv68rldn.jpg",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "2001-08-08",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Fanny",
-      "Joy",
-      "Hirara",
-      "Suyou",
-      "Hayabusa",
-      "Lancelot"
-    ],
-    "instagram": "gilangrifki08_",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": {
-      "vs": "Team WS",
-      "date": "13 - 10 - 2026",
-      "bo": "BO3",
-      "score": "2 - 0",
-      "result": "win",
-      "matchId": "match-4"
-    }
-  },
-  {
     "role": "Mid Laner",
     "ign": "Ⱥ PRIA SAWANGAN LAMA",
     "realName": "Ahmad Al Khaidar",
