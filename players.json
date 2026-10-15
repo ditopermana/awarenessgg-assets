@@ -357,48 +357,6 @@
     "lastMatch": null
   },
   {
-    "role": "Mid Laner",
-    "ign": "Ⱥ PRIA SAWANGAN",
-    "realName": "DWI",
-    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/newplayer-mv0byrkx.webp",
-    "photoBack": "",
-    "winRate": "50.31%",
-    "currentRank": {
-      "tier": "legend",
-      "star": "I"
-    },
-    "highestRank": {
-      "tier": "honor",
-      "star": "48"
-    },
-    "bio": "New player.",
-    "voice": "https://awarenessgg.com/music/voice/dwivoice-mv6j8s91.mp3",
-    "bgImage": "",
-    "bgX": 50,
-    "bgY": 50,
-    "bgZoom": 100,
-    "fgZoom": 100,
-    "fgZoom2": 100,
-    "fgY": null,
-    "fgY2": null,
-    "fgFit": false,
-    "fgFit2": false,
-    "birthdate": "",
-    "origin": "Depok, Indonesia",
-    "heroes": [
-      "Selena",
-      "LuoYi",
-      "Kagura",
-      "Cecilion",
-      "Eudora",
-      "Xavier"
-    ],
-    "instagram": "",
-    "facebook": "",
-    "tiktok": "",
-    "lastMatch": null
-  },
-  {
     "role": "HEAD COACH",
     "ign": "Ⱥ sundongyang",
     "realName": "Sianjas",
@@ -446,6 +404,48 @@
       "result": "win",
       "matchId": "match-4"
     }
+  },
+  {
+    "role": "Mid Laner",
+    "ign": "Ⱥ PRIA SAWANGAN",
+    "realName": "DWI",
+    "photoFront": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/player/newplayer-mv0byrkx.webp",
+    "photoBack": "",
+    "winRate": "50.31%",
+    "currentRank": {
+      "tier": "legend",
+      "star": "I"
+    },
+    "highestRank": {
+      "tier": "honor",
+      "star": "48"
+    },
+    "bio": "New player.",
+    "voice": "https://awarenessgg.com/music/voice/dwivoice-mv6j8s91.mp3",
+    "bgImage": "",
+    "bgX": 50,
+    "bgY": 50,
+    "bgZoom": 100,
+    "fgZoom": 100,
+    "fgZoom2": 100,
+    "fgY": null,
+    "fgY2": null,
+    "fgFit": false,
+    "fgFit2": false,
+    "birthdate": "",
+    "origin": "Depok, Indonesia",
+    "heroes": [
+      "Selena",
+      "LuoYi",
+      "Kagura",
+      "Cecilion",
+      "Eudora",
+      "Xavier"
+    ],
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "lastMatch": null
   },
   {
     "role": "Roamer",
