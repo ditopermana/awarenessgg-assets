@@ -58,5 +58,11 @@
     "description": "Jadwal, hasil, dan klasemen liga profesional Mobile Legends Indonesia dan Philippines.",
     "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/mlbbheroesbg.webp",
     "keywords": ""
+  },
+  "tools-game": {
+    "title": "Tools Game — Team Awareness",
+    "description": "Tools gratis untuk gamer: cek nickname akun game, kalkulator win rate, Magic Wheel, dan Zodiac Mobile Legends dari Team Awareness.",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/toolsnew.png",
+    "keywords": ""
   }
 }
