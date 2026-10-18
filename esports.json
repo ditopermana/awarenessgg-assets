@@ -39,12 +39,15 @@
   },
   "pom": {
     "id:navi~rrq:2026-10-16": "Aprho",
-    "id:dewa~onic:2026-10-17": "Lutpi"
+    "id:dewa~onic:2026-10-17": "Lutpi",
+    "id:btr~navi:2026-10-18": "Shogun"
   },
   "pimg": {
-    "id:navi~rrq:2026-10-16": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/aprho-mvdsbj6r.png"
+    "id:navi~rrq:2026-10-16": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/aprho-mvdsbj6r.png",
+    "id:btr~navi:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/shogun-mvdsf4qv.png"
   },
   "sum": {
-    "id:navi~rrq:2026-10-16": "Aprho Raja di bungkam, Pasukan NAVI mode ngebet Upper bracket 😎\n\nWalau kecolongan di game pertama, NAVI bermain apik hingga menutup game 3 dengan kemenangan berarti. Mereka berhasil masuk ke Upper Bracket playoff MPL ID S18 di Surabaya. GG NAVI 🔥"
+    "id:navi~rrq:2026-10-16": "Aprho Raja di bungkam, Pasukan NAVI mode ngebet Upper bracket 😎\n\nWalau kecolongan di game pertama, NAVI bermain apik hingga menutup game 3 dengan kemenangan berarti. Mereka berhasil masuk ke Upper Bracket playoff MPL ID S18 di Surabaya. GG NAVI 🔥",
+    "id:btr~navi:2026-10-18": "Shogun Robot merah menjadi virus perusak gameplay pasukan NAVI 🦠\n\nRobot merah aktifkan upgrade modenya. NAVI tak diberikan skor sedikitpun karena mereka telah temukan racikan counternya. GG BTR 👏️️️️️️"
   }
 }
