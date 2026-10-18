@@ -52,5 +52,11 @@
     "description": "Baca artikel terbaru, update seputar roster, hasil pertandingan, dan pengumuman penting lainnya tentang Team Awareness dan Team esports Lainnya.",
     "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/newsbg1.png",
     "keywords": "berita Team Awareness, update esports MLBB, info turnamen Awareness GG, hasil pertandingan Mobile Legends, artikel esports Indonesia"
+  },
+  "mlbb-esports": {
+    "title": "MLBB Esports — Team Awareness",
+    "description": "Jadwal, hasil, dan klasemen liga profesional Mobile Legends Indonesia dan Philippines.",
+    "image": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/gallery/mlbbheroesbg.webp",
+    "keywords": ""
   }
 }
