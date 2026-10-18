@@ -1,7 +1,4 @@
 {
-  "settings": {
-    "mvp": false
-  },
   "yt": {
     "id:navi~rrq:2026-10-16": {
       "u": "https://www.youtube.com/watch?v=dS4VpEqFYPs",
@@ -20,9 +17,28 @@
           "t": 0
         }
       }
+    },
+    "id:dewa~onic:2026-10-17": {
+      "u": "https://www.youtube.com/watch?v=m6EqIeLnOOU",
+      "t": 2400,
+      "g": {
+        "1": {
+          "u": "https://www.youtube.com/watch?v=emXVjguC5uI",
+          "t": 0
+        },
+        "2": {
+          "u": "https://www.youtube.com/watch?v=7BFIulPcWaI",
+          "t": 0
+        },
+        "3": {
+          "u": "https://www.youtube.com/watch?v=m6EqIeLnOOU",
+          "t": 0
+        }
+      }
     }
   },
   "pom": {
-    "id:navi~rrq:2026-10-16": "Aprho"
+    "id:navi~rrq:2026-10-16": "Aprho",
+    "id:dewa~onic:2026-10-17": "Lutpi"
   }
 }
