@@ -2,6 +2,27 @@
   "settings": {
     "mvp": false
   },
-  "yt": {},
-  "pom": {}
+  "yt": {
+    "id:navi~rrq:2026-10-16": {
+      "u": "https://www.youtube.com/watch?v=dS4VpEqFYPs",
+      "t": 0,
+      "g": {
+        "1": {
+          "u": "https://www.youtube.com/watch?v=K84HGSYi_e8",
+          "t": 0
+        },
+        "2": {
+          "u": "https://www.youtube.com/watch?v=3o9JbJg8_iw",
+          "t": 0
+        },
+        "3": {
+          "u": "https://www.youtube.com/watch?v=dS4VpEqFYPs",
+          "t": 0
+        }
+      }
+    }
+  },
+  "pom": {
+    "id:navi~rrq:2026-10-16": "Aprho"
+  }
 }
