@@ -49,24 +49,45 @@
           "t": 0
         }
       }
+    },
+    "id:ae~geek:2026-10-16": {
+      "u": "",
+      "t": 0,
+      "g": {
+        "1": {
+          "u": "https://www.youtube.com/watch?v=FFAidd25kR8",
+          "t": 0
+        },
+        "2": {
+          "u": "https://www.youtube.com/watch?v=Vv6Dg4tY5RA",
+          "t": 0
+        }
+      }
     }
   },
   "pom": {
     "id:navi~rrq:2026-10-16": "Aprho",
     "id:dewa~onic:2026-10-17": "Lutpi",
-    "id:btr~navi:2026-10-18": "Shogun"
+    "id:btr~navi:2026-10-18": "Shogun",
+    "id:ae~geek:2026-10-16": "Arfy / DINGARAI"
   },
   "pimg": {
     "id:navi~rrq:2026-10-16": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/aprho-mvdsbj6r.png",
-    "id:btr~navi:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/shogun-mvdsf4qv.png"
+    "id:btr~navi:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/shogun-mvdsf4qv.png",
+    "id:ae~geek:2026-10-16": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/dingarai-mvdx4zyc.png",
+    "id:dewa~onic:2026-10-17": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/lutpi-mvdx7u7n.png"
   },
   "sum": {
     "id:navi~rrq:2026-10-16": "Player of the Match - Aprho\nRaja di bungkam, Pasukan NAVI mode ngebet Upper bracket 😎\n\nWalau kecolongan di game pertama, NAVI bermain apik hingga menutup game 3 dengan kemenangan berarti. Mereka berhasil masuk ke Upper Bracket playoff MPL ID S18 di Surabaya. GG NAVI 🔥",
-    "id:btr~navi:2026-10-18": "Player of the Match - Shogun\nRobot merah menjadi virus perusak gameplay pasukan NAVI 🦠\n\nRobot merah aktifkan upgrade modenya. NAVI tak diberikan skor sedikitpun karena mereka telah temukan racikan counternya. GG BTR 👏️️️️️️"
+    "id:btr~navi:2026-10-18": "Player of the Match - Shogun\nRobot merah menjadi virus perusak gameplay pasukan NAVI 🦠\n\nRobot merah aktifkan upgrade modenya. NAVI tak diberikan skor sedikitpun karena mereka telah temukan racikan counternya. GG BTR 👏️️️️️️",
+    "id:ae~geek:2026-10-16": "Player of the Match - DIngarai\nEl Familia mode serius mengejar upper bracket 😱\n\n2 game tanpa celah dimainkan oleh AE dengan penuh percaya diri. Kini mereka selangkah berprogres merebut upper bracket yang masih tersisa 1 slot. Semangat AE 💪",
+    "id:dewa~onic:2026-10-17": "Player of the Match - Lutpi\nAnak DEWA terdiam terkena comeback Raja Langit 😱\n\n3 permainan saling bertahan dan comeback. ONIC menolak memberikan game mudah untuk DEWA karena ini adalah moment pembuktian mereka adalah tim yang kuat. GO ONIC! 🤩"
   },
   "prole": {
     "id:btr~navi:2026-10-18": "exp",
-    "id:navi~rrq:2026-10-16": "roam"
+    "id:navi~rrq:2026-10-16": "roam",
+    "id:ae~geek:2026-10-16": "gold",
+    "id:dewa~onic:2026-10-17": "exp"
   },
   "pfit": {
     "id:navi~rrq:2026-10-16": {
@@ -78,6 +99,16 @@
       "z": 183,
       "x": 50,
       "y": 0
+    },
+    "id:ae~geek:2026-10-16": {
+      "z": 159,
+      "x": 50,
+      "y": 0
+    },
+    "id:dewa~onic:2026-10-17": {
+      "z": 152,
+      "x": 50,
+      "y": 0
     }
   },
   "news": {
@@ -85,6 +116,18 @@
       {
         "u": "https://awarenessgg.com/news/taklukkan-rrq-2-1-navi-kunci-tiket-upper-bracket-mpl-id-s18",
         "t": "Taklukkan RRQ 2-1, NAVI Kunci Tiket Upper Bracket MPL ID S18"
+      }
+    ],
+    "id:ae~geek:2026-10-16": [
+      {
+        "u": "https://awarenessgg.com/news/sapu-bersih-geek-fam-2-0-alter-ego-kian-on-fire-menuju-playoff",
+        "t": "Sapu Bersih Geek Fam 2-0, Alter Ego Kian On Fire Menuju Playoff"
+      }
+    ],
+    "id:dewa~onic:2026-10-17": [
+      {
+        "u": "https://awarenessgg.com/news/onic-esports-kalahkan-dewa-united-2-1-lewat-epic-comeback",
+        "t": "ONIC Esports Kalahkan Dewa United 2-1 Lewat Epic Comeback!"
       }
     ]
   }
