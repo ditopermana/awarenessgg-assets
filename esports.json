@@ -117,6 +117,20 @@
           "t": 0
         }
       }
+    },
+    "id:onic~tlid:2026-10-18": {
+      "u": "",
+      "t": 0,
+      "g": {
+        "1": {
+          "u": "https://www.youtube.com/watch?v=paUEKUP6Fo8",
+          "t": 0
+        },
+        "2": {
+          "u": "https://www.youtube.com/watch?v=300eTFCDO58",
+          "t": 0
+        }
+      }
     }
   },
   "pom": {
@@ -126,7 +140,8 @@
     "id:ae~geek:2026-10-16": "Arfy",
     "id:btr~evos:2026-10-17": "Nnael",
     "id:geek~rrq:2026-10-17": "Arthur",
-    "id:ae~evos:2026-10-18": "Alberttt"
+    "id:ae~evos:2026-10-18": "Alberttt",
+    "id:onic~tlid:2026-10-18": "Lyoni"
   },
   "pimg": {
     "id:navi~rrq:2026-10-16": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/aprho-mvdsbj6r.png",
@@ -135,7 +150,8 @@
     "id:dewa~onic:2026-10-17": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/lutpi-mvdx7u7n.png",
     "id:btr~evos:2026-10-17": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/nnael-mvdxd2aj.png",
     "id:geek~rrq:2026-10-17": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/arthur-mvdxfj2p.png",
-    "id:ae~evos:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/alberttt-mvdxhq24.png"
+    "id:ae~evos:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/alberttt-mvdxhq24.png",
+    "id:onic~tlid:2026-10-18": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/esports/lyoni-mve0gg3l.png"
   },
   "sum": {
     "id:navi~rrq:2026-10-16": "Player of the Match - Aprho\nRaja di bungkam, Pasukan NAVI mode ngebet Upper bracket 😎\n\nWalau kecolongan di game pertama, NAVI bermain apik hingga menutup game 3 dengan kemenangan berarti. Mereka berhasil masuk ke Upper Bracket playoff MPL ID S18 di Surabaya. GG NAVI 🔥",
@@ -144,7 +160,8 @@
     "id:dewa~onic:2026-10-17": "Player of the Match - Lutpi\nAnak DEWA terdiam terkena comeback Raja Langit 😱\n\n3 permainan saling bertahan dan comeback. ONIC menolak memberikan game mudah untuk DEWA karena ini adalah moment pembuktian mereka adalah tim yang kuat. GO ONIC! 🤩",
     "id:btr~evos:2026-10-17": "Player of the Match - Nnael\nBTR mode serius unjuk mekanik ke Macan putih 💥\n\nSora Gold lane tak menjawab, tapi BTR akhirnya temukan resep mantap untuk selesaikan permainan di game ke-3 melawan Macan Putih EVOS. GG BTR 💫",
     "id:geek~rrq:2026-10-17": "Player of the Match - Arthur\nRaja berikan penampilan terbaiknya di pertandingan terakhir 🫡\n\nSetelah match sengit dari saling balas antara King slayer melawan Sang Raja. RRQ berhasil menutup match dengan sebuah kemenangan 👏",
-    "id:ae~evos:2026-10-18": "Player of the Match - Alberttt\nEl Familia pupus harapan upper bracket 🥹️️️️️️\n\nMacan putih melakukan reverse sweep hingga AE harus menerima nasib bahwa EVOS bermain solid dan cukup kuat saat melawan mereka. Kemenangan mantap untuk EVOS 💪️️️️️️"
+    "id:ae~evos:2026-10-18": "Player of the Match - Alberttt\nEl Familia pupus harapan upper bracket 🥹️️️️️️\n\nMacan putih melakukan reverse sweep hingga AE harus menerima nasib bahwa EVOS bermain solid dan cukup kuat saat melawan mereka. Kemenangan mantap untuk EVOS 💪️️️️️️",
+    "id:onic~tlid:2026-10-18": "Player of the Match - Lyoni\nKuda hitam mode rebut gelar juara regular season!😎️️️️️️\n\nDominasi 2 game tanpa celah, TLID resmi amankan kemenangan di match terakhir pada regular season MPL ID Season 18 dengan sukses raih gelar sebagai Juara regular Season!"
   },
   "prole": {
     "id:btr~navi:2026-10-18": "exp",
@@ -152,7 +169,8 @@
     "id:ae~geek:2026-10-16": "gold",
     "id:dewa~onic:2026-10-17": "exp",
     "id:btr~evos:2026-10-17": "jungle",
-    "id:geek~rrq:2026-10-17": "jungle"
+    "id:geek~rrq:2026-10-17": "jungle",
+    "id:onic~tlid:2026-10-18": "roam"
   },
   "pfit": {
     "id:navi~rrq:2026-10-16": {
@@ -187,6 +205,11 @@
     },
     "id:ae~evos:2026-10-18": {
       "z": 175,
+      "x": 50,
+      "y": 0
+    },
+    "id:onic~tlid:2026-10-18": {
+      "z": 173,
       "x": 50,
       "y": 0
     }
