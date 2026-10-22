@@ -70,12 +70,6 @@
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="0.9s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- subtitle -->
-  <text x="70" y="188" font-family="'Courier New', monospace" font-size="14" fill="#8D90A0">
-    assets, but make it chaos.
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.45;.55;.9;1" dur="7s" repeatCount="indefinite"/>
-  </text>
-
   <!-- scanlines + moving scan bar -->
   <rect width="900" height="240" rx="14" fill="url(#scan)"/>
   <rect width="900" height="40" fill="#C9FF52" opacity=".05">
