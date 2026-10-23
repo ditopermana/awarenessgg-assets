@@ -16,11 +16,11 @@
         "flag": "",
         "main": [
           {
-            "name": "Player 1",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/exp-mvkp5u32.png"
           },
           {
             "name": "sundongyang",
@@ -30,62 +30,48 @@
             "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/jungle-mvkoneni.png"
           },
           {
-            "name": "Player 3",
+            "name": "PRIA SAWANGAN LAMA",
             "tag": "",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
+            "link": "https://awarenessgg.com/player/ahmad-al-khaidar",
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/midlane-mvkp6c35.png"
           },
           {
-            "name": "Player 4",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/goldlane-mvkp6g9v.png"
           },
           {
-            "name": "Player 5",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/roamer-mvkp6iqt.png"
           }
         ],
         "subs": [
           {
-            "name": "Sub 1",
-            "tag": "DNP",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
-          },
-          {
-            "name": "Sub 2",
-            "tag": "DNP",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
-          },
-          {
-            "name": "Sub 3",
-            "tag": "DNP",
-            "flag": "",
+            "name": "TBA",
+            "tag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
             "roleIcon": ""
           }
         ],
         "staff": [
           {
-            "name": "Coach 1",
+            "name": "DAYAT",
             "tag": "Head Coach",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": ""
           },
           {
-            "name": "Coach 2",
+            "name": "PRIA RENI",
             "tag": "Assistant Coach",
-            "flag": "",
-            "link": ""
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
+            "link": "https://awarenessgg.com/player/ridho-galon"
           }
         ]
       },
@@ -94,46 +80,46 @@
         "flag": "",
         "main": [
           {
-            "name": "Player 1",
+            "name": "TBA",
             "tag": "Captain",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/exp-mvkp5u32.png"
           },
           {
-            "name": "Player 2",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/jungle-mvkoneni.png"
           },
           {
-            "name": "Player 3",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/midlane-mvkp6c35.png"
           },
           {
-            "name": "Player 4",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/goldlane-mvkp6g9v.png"
           },
           {
-            "name": "Player 5",
+            "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
-            "roleIcon": ""
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/roamer-mvkp6iqt.png"
           }
         ],
         "subs": [
           {
             "name": "TBA",
             "tag": "",
-            "flag": "",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
             "link": "",
             "roleIcon": ""
           }
