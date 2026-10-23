@@ -9,7 +9,165 @@
     "kind": "Sparing",
     "score": "",
     "result": "win",
-    "detail": null
+    "detail": null,
+    "lineup": {
+      "a": {
+        "logo": "",
+        "flag": "",
+        "main": [
+          {
+            "name": "sundongyang",
+            "tag": "Captain",
+            "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/uk-mvkomlsl.png",
+            "link": "https://awarenessgg.com/player/sianjas",
+            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/jungle-mvkoneni.png"
+          },
+          {
+            "name": "Player 2",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 3",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 4",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 5",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          }
+        ],
+        "subs": [
+          {
+            "name": "Sub 1",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Sub 2",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Sub 3",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          }
+        ],
+        "staff": [
+          {
+            "name": "Coach 1",
+            "tag": "Head Coach",
+            "flag": "",
+            "link": ""
+          },
+          {
+            "name": "Coach 2",
+            "tag": "Assistant Coach",
+            "flag": "",
+            "link": ""
+          }
+        ]
+      },
+      "b": {
+        "logo": "",
+        "flag": "",
+        "main": [
+          {
+            "name": "Player 1",
+            "tag": "Captain",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 2",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 3",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 4",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Player 5",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          }
+        ],
+        "subs": [
+          {
+            "name": "Sub 1",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Sub 2",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
+            "name": "Sub 3",
+            "tag": "DNP",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          }
+        ],
+        "staff": [
+          {
+            "name": "Coach 1",
+            "tag": "Head Coach",
+            "flag": "",
+            "link": ""
+          },
+          {
+            "name": "Coach 2",
+            "tag": "Assistant Coach",
+            "flag": "",
+            "link": ""
+          }
+        ]
+      }
+    }
   },
   {
     "id": "4",
@@ -320,7 +478,8 @@
           ]
         }
       ]
-    }
+    },
+    "lineup": null
   },
   {
     "id": "1",
@@ -797,6 +956,7 @@
           ]
         }
       ]
-    }
+    },
+    "lineup": null
   }
 ]
