@@ -1,4 +1,10 @@
 {
+  "schedule": {
+    "eyebrow": "Jadwal & Hasil",
+    "title": "Schedule",
+    "lede": "Jadwal sparing Team Awareness yang akan datang, serta hasil pertandingan sebelumnya.",
+    "note": "Untuk detail pertandingan sebelumnya klik pada bagian (i), dan untuk lineup yang akan datang klik pada bagian jadwal pertandingannya."
+  },
   "contact": {
     "eyebrow": "Hubungi Kami",
     "title": "Contact Us",
