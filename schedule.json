@@ -16,18 +16,18 @@
         "flag": "",
         "main": [
           {
+            "name": "Player 1",
+            "tag": "",
+            "flag": "",
+            "link": "",
+            "roleIcon": ""
+          },
+          {
             "name": "sundongyang",
             "tag": "Captain",
             "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/uk-mvkomlsl.png",
             "link": "https://awarenessgg.com/player/sianjas",
             "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/jungle-mvkoneni.png"
-          },
-          {
-            "name": "Player 2",
-            "tag": "",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
           },
           {
             "name": "Player 3",
@@ -131,41 +131,14 @@
         ],
         "subs": [
           {
-            "name": "Sub 1",
-            "tag": "DNP",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
-          },
-          {
-            "name": "Sub 2",
-            "tag": "DNP",
-            "flag": "",
-            "link": "",
-            "roleIcon": ""
-          },
-          {
-            "name": "Sub 3",
-            "tag": "DNP",
+            "name": "TBA",
+            "tag": "",
             "flag": "",
             "link": "",
             "roleIcon": ""
           }
         ],
-        "staff": [
-          {
-            "name": "Coach 1",
-            "tag": "Head Coach",
-            "flag": "",
-            "link": ""
-          },
-          {
-            "name": "Coach 2",
-            "tag": "Assistant Coach",
-            "flag": "",
-            "link": ""
-          }
-        ]
+        "staff": []
       }
     }
   },
