@@ -16,39 +16,39 @@
         "flag": "",
         "main": [
           {
-            "name": "TBA",
+            "name": "PRIA SETU SAWANGAN",
             "tag": "",
             "flag": "images/flags/indonesia.png",
-            "link": "",
-            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/exp-mvkp5u32.png"
+            "link": "https://awarenessgg.com/player/iqbal-rahayu",
+            "roleIcon": "images/role/exp.png"
           },
           {
             "name": "PRIA DESIL 5",
             "tag": "Captain",
             "flag": "images/flags/united-kingdom.png",
             "link": "https://awarenessgg.com/player/sianjas",
-            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/jungle-mvkoneni.png"
+            "roleIcon": "images/role/jungle.png"
           },
           {
             "name": "PRIA SAWANGAN LAMA",
             "tag": "",
             "flag": "images/flags/indonesia.png",
             "link": "https://awarenessgg.com/player/ahmad-al-khaidar",
-            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/midlane-mvkp6c35.png"
+            "roleIcon": "images/role/mid.png"
           },
           {
             "name": "TBA",
             "tag": "",
             "flag": "images/flags/indonesia.png",
             "link": "",
-            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/goldlane-mvkp6g9v.png"
+            "roleIcon": "images/role/gold.png"
           },
           {
             "name": "PRIA MEDAN",
             "tag": "",
             "flag": "images/flags/indonesia.png",
             "link": "https://awarenessgg.com/player/raja-sutan",
-            "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/roamer-mvkp6iqt.png"
+            "roleIcon": "images/role/roam.png"
           }
         ],
         "subs": [
