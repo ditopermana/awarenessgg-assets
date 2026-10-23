@@ -44,10 +44,10 @@
             "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/goldlane-mvkp6g9v.png"
           },
           {
-            "name": "TBA",
+            "name": "PRIA MEDAN",
             "tag": "",
             "flag": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/id-mvkp38dn.png",
-            "link": "",
+            "link": "https://awarenessgg.com/player/raja-sutan",
             "roleIcon": "https://cdn.jsdelivr.net/gh/ditopermana/awarenessgg-assets@main/lineup/roamer-mvkp6iqt.png"
           }
         ],
@@ -124,7 +124,20 @@
             "roleIcon": ""
           }
         ],
-        "staff": []
+        "staff": [
+          {
+            "name": "Coach 1",
+            "tag": "Head Coach",
+            "flag": "",
+            "link": ""
+          },
+          {
+            "name": "Coach 2",
+            "tag": "Assistant Coach",
+            "flag": "",
+            "link": ""
+          }
+        ]
       }
     }
   },
