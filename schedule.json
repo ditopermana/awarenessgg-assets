@@ -124,20 +124,7 @@
             "roleIcon": ""
           }
         ],
-        "staff": [
-          {
-            "name": "Coach 1",
-            "tag": "Head Coach",
-            "flag": "",
-            "link": ""
-          },
-          {
-            "name": "Coach 2",
-            "tag": "Assistant Coach",
-            "flag": "",
-            "link": ""
-          }
-        ]
+        "staff": []
       }
     }
   },
